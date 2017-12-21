@@ -1,0 +1,8465 @@
+75
+
+$GPGSV,4,4,13,31,28,066,31*41
+
+$GPGLL,5327.79628,N,00950.55038,E,152722.00,A,A*6E
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152723.00,A,5327.79620,N,00950.55054,E,0.037,,220917,,,A*7F
+
+$GPVTG,,T,,M,0.037,N,0.069,K,A*28
+
+$GPGGA,152723.00,5327.79620,N,00950.55054,E,1,08,1.20,17.6,M,45.2,M,,*60
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,30,03,85,063,32,06,21,307,,09,21,212,20*75
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,,14,15,047,17,17,39,260,27*7E
+
+$GPGSV,4,3,13,19,38,288,19,22,60,091,31,23,50,197,30,25,04,017,*74
+
+$GPGSV,4,4,13,31,28,066,31*41
+
+$GPGLL,5327.79620,N,00950.55054,E,152723.00,A,A*6D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152724.00,A,5327.79617,N,00950.55071,E,0.066,,220917,,,A*7F
+
+$GPVTG,,T,,M,0.066,N,0.121,K,A*21
+
+$GPGGA,152724.00,5327.79617,N,00950.55071,E,1,08,1.20,17.6,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,31,03,85,063,32,06,21,307,,09,21,212,20*74
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,,14,15,047,19,17,39,260,27*70
+
+$GPGSV,4,3,13,19,38,288,19,22,60,091,31,23,50,197,30,25,04,017,*74
+
+$GPGSV,4,4,13,31,28,066,31*41
+
+$GPGLL,5327.79617,N,00950.55071,E,152724.00,A,A*69
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152725.00,A,5327.79611,N,00950.55087,E,0.002,,220917,,,A*73
+
+$GPVTG,,T,,M,0.002,N,0.004,K,A*25
+
+$GPGGA,152725.00,5327.79611,N,00950.55087,E,1,08,1.20,17.6,M,45.2,M,,*6A
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,31,03,85,063,32,06,21,307,,09,21,212,21*75
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,,14,15,047,18,17,39,260,27*71
+
+$GPGSV,4,3,13,19,38,288,19,22,60,091,32,23,50,197,31,25,04,017,*76
+
+$GPGSV,4,4,13,31,28,066,30*40
+
+$GPGLL,5327.79611,N,00950.55087,E,152725.00,A,A*67
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152726.00,A,5327.79609,N,00950.55101,E,0.140,,220917,,,A*71
+
+$GPVTG,,T,,M,0.140,N,0.259,K,A*28
+
+$GPGGA,152726.00,5327.79609,N,00950.55101,E,1,08,1.20,17.5,M,45.2,M,,*6C
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,22,03,85,063,25,06,21,307,,09,21,212,20*70
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,,14,15,047,20,17,39,260,26*7B
+
+$GPGSV,4,3,13,19,38,288,17,22,60,091,25,23,50,197,23,25,04,017,*7D
+
+$GPGSV,4,4,13,31,28,066,20*41
+
+$GPGLL,5327.79609,N,00950.55101,E,152726.00,A,A*62
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152727.00,A,5327.79583,N,00950.55133,E,0.542,,220917,,,A*76
+
+$GPVTG,,T,,M,0.542,N,1.003,K,A*22
+
+$GPGGA,152727.00,5327.79583,N,00950.55133,E,1,08,1.20,17.3,M,45.2,M,,*6B
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,18,03,85,063,22,06,21,307,,09,21,212,16*7B
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,,14,15,047,17,17,39,260,22*7B
+
+$GPGSV,4,3,13,19,38,288,15,22,60,091,21,23,50,197,20,25,04,017,*78
+
+$GPGSV,4,4,13,31,28,066,17*45
+
+$GPGLL,5327.79583,N,00950.55133,E,152727.00,A,A*63
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152728.00,A,5327.79528,N,00950.55153,E,1.251,,220917,,,A*7A
+
+$GPVTG,,T,,M,1.251,N,2.317,K,A*23
+
+$GPGGA,152728.00,5327.79528,N,00950.55153,E,1,08,1.20,17.1,M,45.2,M,,*61
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,16,03,85,064,18,06,21,307,,09,21,212,13*7E
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,,14,15,047,14,17,39,260,19*70
+
+$GPGSV,4,3,13,19,38,288,15,22,60,091,18,23,50,197,18,25,04,017,*79
+
+$GPGSV,4,4,13,31,28,066,12*40
+
+$GPGLL,5327.79528,N,00950.55153,E,152728.00,A,A*6B
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152729.00,A,5327.79457,N,00950.55158,E,1.784,,220917,,,A*74
+
+$GPVTG,,T,,M,1.784,N,3.305,K,A*2C
+
+$GPGGA,152729.00,5327.79457,N,00950.55158,E,1,08,1.20,16.9,M,45.2,M,,*6B
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,11,03,85,064,16,06,21,307,,09,21,212,15*71
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,,14,15,047,10,17,39,260,16*7B
+
+$GPGSV,4,3,13,19,38,288,11,22,60,091,16,23,50,197,16,25,04,017,*7D
+
+$GPGSV,4,4,13,31,28,066,14*46
+
+$GPGLL,5327.79457,N,00950.55158,E,152729.00,A,A*68
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152730.00,A,5327.79376,N,00950.55265,E,2.266,,220917,,,A*7F
+
+$GPVTG,,T,,M,2.266,N,4.197,K,A*28
+
+$GPGGA,152730.00,5327.79376,N,00950.55265,E,1,07,1.25,16.7,M,45.2,M,,*6E
+
+$GPGSA,A,3,03,23,01,17,19,31,14,,,,,,2.48,1.25,2.15*06
+
+$GPGSV,4,1,13,01,42,148,12,03,85,064,15,06,21,307,,09,21,212,*75
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,27,14,15,047,11,17,39,260,16*7F
+
+$GPGSV,4,3,13,19,38,288,11,22,60,091,,23,50,197,19,25,04,017,*75
+
+$GPGSV,4,4,13,31,28,066,18*4A
+
+$GPGLL,5327.79376,N,00950.55265,E,152730.00,A,A*69
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152731.00,A,5327.79386,N,00950.55342,E,1.742,,220917,,,A*75
+
+$GPVTG,,T,,M,1.742,N,3.226,K,A*26
+
+$GPGGA,152731.00,5327.79386,N,00950.55342,E,1,04,3.50,16.6,M,45.2,M,,*66
+
+$GPGSA,A,3,03,23,01,31,,,,,,,,,5.93,3.50,4.79*00
+
+$GPGSV,4,1,13,01,42,148,30,03,85,064,35,06,21,307,22,09,21,212,*77
+
+$GPGSV,4,2,13,11,19,165,14,12,07,343,22,14,15,047,25,17,39,260,20*7D
+
+$GPGSV,4,3,13,19,38,288,14,22,60,091,28,23,50,197,26,25,04,017,24*70
+
+$GPGSV,4,4,13,31,28,066,33*43
+
+$GPGLL,5327.79386,N,00950.55342,E,152731.00,A,A*63
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152732.00,A,5327.79501,N,00950.55339,E,1.326,,220917,,,A*75
+
+$GPVTG,,T,,M,1.326,N,2.455,K,A*23
+
+$GPGGA,152732.00,5327.79501,N,00950.55339,E,1,08,1.21,16.0,M,45.2,M,,*6E
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.33,1.21,1.99*09
+
+$GPGSV,4,1,13,01,42,148,25,03,85,064,32,06,21,307,18,09,21,212,*7D
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,21,14,15,047,30,17,39,260,29*76
+
+$GPGSV,4,3,13,19,38,288,26,22,60,091,29,23,50,197,25,25,04,017,23*74
+
+$GPGSV,4,4,13,31,28,066,29*48
+
+$GPGLL,5327.79501,N,00950.55339,E,152732.00,A,A*65
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152733.00,A,5327.79523,N,00950.55428,E,1.849,41.51,220917,,,A*5E
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152734.00,A,5327.79556,N,00950.55503,E,2.114,47.83,220917,,,A*58
+
+$GPVTG,47.83,T,,M,2.114,N,3.915,K,A*0D
+
+$GPGGA,152734.00,5327.79556,N,00950.55503,E,1,08,1.20,16.0,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,27,03,85,064,28,06,21,307,11,09,21,212,*7D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152735.00,A,5327.79585,N,00950.55574,E,1.799,46.57,220917,,,A*5F
+
+$GPVTG,46.57,T,,M,1.799,N,3.332,K,A*0A
+
+$GPGGA,152735.00,5327.79585,N,00950.55574,E,1,08,1.20,15.9,M,45.2,M,,*61
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,28,03,85,064,28,06,21,307,11,09,21,212,*72
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,21,14,15,047,23,17,39,260,24*79
+
+$GPGSV,4,3,13,19,38,288,21,22,60,091,26,23,50,197,22,25,04,017,21*79
+
+$GPGSV,4,4,13,31,28,066,27*46
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152736.00,A,5327.79620,N,00950.55630,E,1.839,44.03,220917,,,A*55
+
+$GPVTG,44.03,T,,M,1.839,N,3.406,K,A*0C
+
+$GPGGA,152736.00,5327.79620,N,00950.55630,E,1,08,1.20,15.9,M,45.2,M,,*6D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152737.00,A,5327.79650,N,00950.55679,E,1.579,,220917,,,A*7A
+
+$GPVTG,,T,,M,1.579,N,2.924,K,A*24
+
+$GPGGA,152737.00,5327.79650,N,00950.55679,E,1,08,1.20,15.9,M,45.2,M,,*66
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,27,03,85,064,26,06,21,307,11,09,21,212,*73
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152738.00,A,5327.79693,N,00950.55733,E,1.788,,220917,,,A*79
+
+$GPVTG,,T,,M,1.788,N,3.311,K,A*25
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152740.00,A,5327.79776,N,00950.55890,E,2.261,,220917,,,A*7B
+
+$GPVTG,,T,,M,2.261,N,4.187,K,A*2E
+
+$GPGGA,152740.00,5327.79776,N,00950.55890,E,1,08,1.20,16.1,M,45.2,M,,*61
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,26,03,85,064,25,06,21,307,08,09,21,212,*79
+
+$GPGSV,4,2,13,11,19,165,13,12,07,343,,14,14,047,21,17,39,260,23*7C
+
+$GPGSV,4,3,13,19,38,288,25,22,60,091,21,23,50,197,19,25,04,017,*71
+
+$GPGSV,4,4,13,31,28,066,29*48
+
+$GPGLL,5327.79776,N,00950.55890,E,152740.00,A,A*6A
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152741.00,A,5327.79824,N,00950.55976,E,2.457,44.34,220917,,,A*51
+
+$GPVTG,44.34,T,,M,2.457,N,4.550,K,A*0A
+
+$GPGGA,152741.00,5327.79824,N,00950.55976,E,1,08,1.20,15.9,M,45.2,M,,*6A
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152742.00,A,5327.79896,N,00950.56016,E,2.517,37.49,220917,,,A*5C
+
+$GPVTG,37.49,T,,M,2.517,N,4.662,K,A*03
+
+$GPGGA,152742.00,5327.79896,N,00950.56016,E,1,08,1.20,15.9,M,45.2,M,,*6C
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,21,03,85,064,25,06,21,307,08,09,21,212,*7E
+
+$GPGSV,4,2,13,11,19,165,08,12,07,343,,14,14,047,22,17,39,259,27*7B
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152743.00,A,5327.79990,N,00950.56038,E,2.728,21.71,220917,,,A*54
+
+$GPVTG,21.71,T,,M,2.728,N,5.052,K,A*05
+
+$GPGGA,152743.00,5327.79990,N,00950.56038,E,1,08,1.20,16.1,M,45.2,M,,*6D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152744.00,A,5327.80051,N,00950.56078,E,2.452,18.87,220917,,,A*58
+
+$GPVTG,18.87,T,,M,2.452,N,4.540,K,A*0F
+
+$GPGGA,152744.00,5327.80051,N,00950.56078,E,1,08,1.21,16.1,M,45.2,M,,*6D
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.33,1.21,1.99*09
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152745.00,A,5327.80125,N,00950.56125,E,2.526,18.45,220917,,,A*5E
+
+$GPVTG,18.45,T,,M,2.526,N,4.678,K,A*0B
+
+$GPGGA,152745.00,5327.80125,N,00950.56125,E,1,08,1.21,16.2,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.33,1.21,1.99*09
+
+$GPGSV,4,1,13,01,42,148,18,03,85,064,27,06,21,307,08,09,21,212,*76
+
+$GPGSV,4,2,13,11,19,165,08,12,07,343,,14,14,047,24,17,39,259,27*7D
+
+$GPGSV,4,3,13,19,38,287,27,22,60,091,22,23,50,197,21,25,04,017,*74
+
+$GPGSV,4,4,13,31,28,066,26*47
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152746.00,A,5327.80181,N,00950.56178,E,2.431,21.08,220917,,,A*5F
+
+$GPVTG,21.08,T,,M,2.431,N,4.502,K,A*01
+
+$GPGGA,152746.00,5327.80181,N,00950.56178,E,1,08,1.21,16.0,M,45.2,M,,*63
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152747.00,A,5327.80248,N,00950.56239,E,2.499,24.68,220917,,,A*5F
+
+$GPVTG,24.68,T,,M,2.499,N,4.629,K,A*0A
+
+$GPGGA,152747.00,5327.80248,N,00950.56239,E,1,08,1.20,15.9,M,45.2,M,,*69
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,19,03,85,064,26,06,21,307,08,09,21,212,*76
+
+$GPGSV,4,2,13,11,19,165,08,12,07,343,,14,14,047,25,17,39,259,26*7D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152748.00,A,5327.80297,N,00950.56287,E,2.201,24.23,220917,,,A*5F
+
+$GPVTG,24.23,T,,M,2.201,N,4.076,K,A*0E
+
+$GPGGA,152748.00,5327.80297,N,00950.56287,E,1,08,1.20,15.8,M,45.2,M,,*60
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152749.00,A,5327.80365,N,00950.56329,E,2.286,23.52,220917,,,A*59
+
+$GPVTG,23.52,T,,M,2.286,N,4.233,K,A*03
+
+$GPGGA,152749.00,5327.80365,N,00950.56329,E,1,08,1.20,15.7,M,45.2,M,,*67
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152750.00,A,5327.80409,N,00950.56350,E,1.914,,220917,,,A*79
+
+$GPVTG,,T,,M,1.914,N,3.544,K,A*28
+
+$GPGGA,152750.00,5327.80409,N,00950.56350,E,1,08,1.20,15.6,M,45.2,M,,*6D
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.20,1.20,1.85*07
+
+$GPGSV,4,1,13,01,42,148,15,03,85,064,22,06,21,307,,09,21,212,*76
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152751.00,A,5327.80428,N,00950.56424,E,1.852,,220917,,,A*7C
+
+$GPVTG,,T,,M,1.852,N,3.430,K,A*29
+
+$GPGGA,152751.00,5327.80428,N,00950.56424,E,1,08,1.21,15.3,M,45.2,M,,*6F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152752.00,A,5327.80441,N,00950.56470,E,1.538,,220917,,,A*70
+
+$GPVTG,,T,,M,1.538,N,2.849,K,A*2B
+
+$GPGGA,152752.00,5327.80441,N,00950.56470,E,1,08,1.65,15.1,M,45.2,M,,*60
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152753.00,A,5327.80490,N,00950.56507,E,1.484,,220917,,,A*7A
+
+$GPVTG,,T,,M,1.484,N,2.749,K,A*22
+
+$GPGGA,152753.00,5327.80490,N,00950.56507,E,1,09,0.95,15.3,M,45.2,M,,*61
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.78,0.95,1.51*0F
+
+$GPGSV,4,1,13,01,42,148,10,03,85,064,19,06,21,307,22,09,21,212,*7B
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152754.00,A,5327.80508,N,00950.56573,E,1.403,,220917,,,A*71
+
+$GPVTG,,T,,M,1.403,N,2.598,K,A*23
+
+$GPGGA,152754.00,5327.80508,N,00950.56573,E,1,08,1.02,15.4,M,45.2,M,,*6C
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152755.00,A,5327.80560,N,00950.56636,E,1.748,,220917,,,A*70
+
+$GPVTG,,T,,M,1.748,N,3.238,K,A*23
+
+$GPGGA,152755.00,5327.80560,N,00950.56636,E,1,06,3.21,15.2,M,45.2,M,,*6A
+
+$GPGSA,A,3,03,22,17,19,31,14,,,,,,,4.33,3.21,2.91*06
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152756.00,A,5327.80626,N,00950.56677,E,1.888,,220917,,,A*74
+
+$GPVTG,,T,,M,1.888,N,3.497,K,A*23
+
+$GPGGA,152756.00,5327.80626,N,00950.56677,E,1,06,3.21,15.0,M,45.2,M,,*6F
+
+$GPGSA,A,3,03,22,17,19,31,14,,,,,,,4.33,3.21,2.91*06
+
+$GPGSV,4,1,13,01,42,148,07,03,85,064,17,06,21,307,21,09,21,212,*70
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,,14,14,047,25,17,39,259,16*76
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152757.00,A,5327.80705,N,00950.56721,E,2.201,,220917,,,A*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152758.00,A,5327.80773,N,00950.56793,E,2.338,,220917,,,A*73
+
+$GPVTG,,T,,M,2.338,N,4.330,K,A*2D
+
+$GPGGA,152758.00,5327.80773,N,00950.56793,E,1,06,3.21,14.6,M,45.2,M,,*6C
+
+$GPGSA,A,3,03,22,17,19,31,14,,,,,,,4.33,3.21,2.91*06
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152759.00,A,5327.80769,N,00950.56852,E,1.750,,220917,,,A*72
+
+$GPVTG,,T,,M,1.750,N,3.241,K,A*24
+
+$GPGGA,152759.00,5327.80769,N,00950.56852,E,1,06,3.21,14.3,M,45.2,M,,*61
+
+$GPGSA,A,3,03,22,17,19,31,14,,,,,,,4.33,3.21,2.91*06
+
+$GPGSV,4,1,13,01,42,148,07,03,85,064,16,06,21,307,21,09,21,212,*71
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,,14,14,047,23,17,39,259,13*75
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152800.00,A,5327.80900,N,00950.56919,E,2.378,,220917,,,A*73
+
+$GPVTG,,T,,M,2.378,N,4.404,K,A*29
+
+$GPGGA,152800.00,5327.80900,N,00950.56919,E,1,06,3.21,14.1,M,45.2,M,,*6F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152801.00,A,5327.80953,N,00950.57041,E,2.680,,220917,,,A*73
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152802.00,A,5327.80988,N,00950.57207,E,2.760,,220917,,,A*79
+
+$GPVTG,,T,,M,2.760,N,5.112,K,A*27
+
+$GPGGA,152802.00,5327.80988,N,00950.57207,E,1,07,1.35,14.0,M,45.2,M,,*6F
+
+$GPGSA,A,3,03,22,01,17,19,31,14,,,,,,2.42,1.35,2.01*09
+
+$GPGSV,4,1,13,01,42,148,07,03,85,064,13,06,21,307,19,09,21,212,*7F
+
+$GPGSV,4,2,13,11,19,165,,12,07,343,,14,14,047,17,17,39,259,13*72
+
+$GPGSV,4,3,13,19,38,287,13,22,60,091,13,23,50,197,,25,04,017,*72
+
+$GPGSV,4,4,13,31,28,066,26*47
+
+$GPGLL,5327.80988,N,00950.57207,E,152802.00,A,A*6C
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152803.00,A,5327.81003,N,00950.57313,E,2.591,,220917,,,A*7B
+
+$GPVTG,,T,,M,2.591,N,4.798,K,A*2E
+
+$GPGGA,152803.00,5327.81003,N,00950.57313,E,1,07,1.35,13.9,M,45.2,M,,*6F
+
+$GPGSA,A,3,03,22,01,17,19,31,14,,,,,,2.42,1.35,2.01*09
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152804.00,A,5327.80964,N,00950.57471,E,2.578,,220917,,,A*71
+
+$GPVTG,,T,,M,2.578,N,4.774,K,A*2B
+
+$GPGGA,152804.00,5327.80964,N,00950.57471,E,1,07,1.35,13.8,M,45.2,M,,*63
+
+$GPGSA,A,3,03,22,01,17,19,31,14,,,,,,2.42,1.35,2.01*09
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152805.00,A,5327.80891,N,00950.57674,E,3.003,,220917,,,A*74
+
+$GPVTG,,T,,M,3.003,N,5.561,K,A*24
+
+$GPGGA,152805.00,5327.80891,N,00950.57674,E,1,07,1.35,13.8,M,45.2,M,,*6E
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152806.00,A,5327.80831,N,00950.57897,E,3.341,,220917,,,A*7B
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152807.00,A,5327.80804,N,00950.57998,E,3.138,,220917,,,A*7E
+
+$GPVTG,,T,,M,3.138,N,5.812,K,A*24
+
+$GPGGA,152807.00,5327.80804,N,00950.57998,E,1,07,1.35,13.5,M,45.2,M,,*60
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152808.00,A,5327.80874,N,00950.58092,E,2.947,,220917,,,A*7B
+
+$GPVTG,,T,,M,2.947,N,5.458,K,A*27
+
+$GPGGA,152808.00,5327.80874,N,00950.58092,E,1,06,1.49,13.3,M,45.2,M,,*68
+
+$GPGSA,A,3,03,22,01,19,31,14,,,,,,,2.60,1.49,2.12*06
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152809.00,A,5327.80820,N,00950.58277,E,3.197,,220917,,,A*76
+
+$GPVTG,,T,,M,3.197,N,5.921,K,A*20
+
+$GPGGA,152809.00,5327.80820,N,00950.58277,E,1,07,1.35,13.2,M,45.2,M,,*6A
+
+$GPGSA,A,3,03,22,01,17,19,31,14,,,,,,2.42,1.35,2.01*09
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152810.00,A,5327.80858,N,00950.58269,E,2.183,,220917,,,A*7A
+
+$GPVTG,,T,,M,2.183,N,4.043,K,A*28
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152811.00,A,5327.80881,N,00950.58251,E,1.735,,220917,,,A*7C
+
+$GPVTG,,T,,M,1.735,N,3.213,K,A*20
+
+$GPGGA,152811.00,5327.80881,N,00950.58251,E,1,06,1.49,12.8,M,45.2,M,,*6D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152812.00,A,5327.80919,N,00950.58222,E,1.798,,220917,,,A*7C
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152814.00,A,5327.81050,N,00950.58354,E,1.633,,220917,,,A*7F
+
+$GPVTG,,T,,M,1.633,N,3.025,K,A*20
+
+$GPGGA,152814.00,5327.81050,N,00950.58354,E,1,07,1.35,12.3,M,45.2,M,,*68
+
+$GPGSA,A,3,03,22,01,17,19,31,14,,,,,,2.42,1.35,2.00*08
+
+$GPGSV,4,1,13,01,42,148,13,03,84,066,17,06,22,307,,09,21,212,*76
+
+$GPGSV,4,2,13,11,19,165,08,12,07,343,,14,14,047,08,17,39,259,09*7F
+
+$GPGSV,4,3,13,19,38,287,08,22,60,091,20,23,50,197,,25,04,017,*78
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152815.00,A,5327.81197,N,00950.58405,E,1.833,,220917,,,A*79
+
+$GPVTG,,T,,M,1.833,N,3.394,K,A*27
+
+$GPGGA,152815.00,5327.81197,N,00950.58405,E,1,08,0.98,13.3,M,45.2,M,,*68
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152817.00,A,5327.81293,N,00950.58570,E,2.002,,220917,,,A*76
+
+$GPVTG,,T,,M,2.002,N,3.708,K,A*2F
+
+$GPGGA,152817.00,5327.81293,N,00950.58570,E,1,05,1.60,12.7,M,45.2,M,,*60
+
+$GPGSA,A,3,03,22,01,19,31,,,,,,,,2.96,1.60,2.50*07
+
+$GPGSV,4,1,13,01,42,148,13,03,84,066,15,06,22,307,,09,22,212,*77
+
+$GPGSV,4,2,13,11,19,165,08,12,07,343,,14,14,047,08,17,39,259,09*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152818.00,A,5327.81317,N,00950.58590,E,1.824,,220917,,,A*75
+
+$GPVTG,,T,,M,1.824,N,3.378,K,A*23
+
+$GPGGA,152818.00,5327.81317,N,00950.58590,E,1,05,1.60,12.6,M,45.2,M,,*6D
+
+$GPGSA,A,3,03,22,01,19,31,,,,,,,,2.96,1.60,2.50*07
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152819.00,A,5327.81326,N,00950.58637,E,1.558,,220917,,,A*7E
+
+$GPVTG,,T,,M,1.558,N,2.885,K,A*2D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152820.00,A,5327.81297,N,00950.58606,E,0.986,,220917,,,A*73
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152821.00,A,5327.81251,N,00950.58656,E,1.337,,220917,,,A*7C
+
+$GPVTG,,T,,M,1.337,N,2.477,K,A*23
+
+$GPGGA,152821.00,5327.81251,N,00950.58656,E,1,05,1.59,12.2,M,45.2,M,,*63
+
+$GPGSA,A,3,03,22,01,19,31,,,,,,,,2.96,1.59,2.50*0D
+
+$GPGSV,4,1,13,01,42,148,14,03,84,066,15,06,22,307,,09,22,212,*70
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152822.00,A,5327.81337,N,00950.58809,E,1.920,,220917,,,A*76
+
+$GPVTG,,T,,M,1.920,N,3.556,K,A*2C
+
+$GPGGA,152822.00,5327.81337,N,00950.58809,E,1,07,1.17,13.2,M,45.2,M,,*6C
+
+$GPGSA,A,3,03,22,01,17,19,31,11,,,,,,2.27,1.17,1.94*00
+
+$GPGSV,4,1,13,01,42,148,17,03,84,066,13,06,22,307,,09,22,212,*75
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152823.00,A,5327.81337,N,00950.59000,E,2.537,,220917,,,A*7E
+
+$GPVTG,,T,,M,2.537,N,4.698,K,A*23
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152824.00,A,5327.81337,N,00950.59199,E,2.759,,220917,,,A*72
+
+$GPVTG,,T,,M,2.759,N,5.110,K,A*2F
+
+$GPGGA,152824.00,5327.81337,N,00950.59199,E,1,06,1.38,14.5,M,45.2,M,,*67
+
+$GPGSA,A,3,03,22,01,17,31,11,,,,,,,2.47,1.38,2.05*08
+
+$GPGSV,4,1,13,01,42,148,23,03,84,066,16,06,22,307,,09,22,212,*77
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152825.00,A,5327.81237,N,00950.59388,E,3.087,92.90,220917,,,A*59
+
+$GPVTG,92.90,T,,M,3.087,N,5.717,K,A*07
+
+$GPGGA,152825.00,5327.81237,N,00950.59388,E,1,06,1.51,14.6,M,45.2,M,,*69
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152826.00,A,5327.81107,N,00950.59547,E,3.429,132.18,220917,,,A*64
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152827.00,A,5327.81005,N,00950.59697,E,3.097,140.72,220917,,,A*60
+
+$GPVTG,140.72,T,,M,3.097,N,5.735,K,A*34
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152829.00,A,5327.80866,N,00950.59816,E,3.643,150.68,220917,,,A*60
+
+$GPVTG,150.68,T,,M,3.643,N,6.747,K,A*37
+
+$GPGGA,152829.00,5327.80866,N,00950.59816,E,1,06,2.83,15.3,M,45.2,M,,*6E
+
+$GPGSA,A,3,03,22,23,01,31,11,,,,,,,3.99,2.83,2.82*01
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152830.00,A,5327.80781,N,00950.59917,E,3.478,152.02,220917,,,A*6A
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152831.00,A,5327.80762,N,00950.59918,E,3.415,148.58,220917,,,A*66
+
+$GPVTG,148.58,T,,M,3.415,N,6.325,K,A*3C
+
+$GPGGA,152831.00,5327.80762,N,00950.59918,E,1,06,2.83,15.6,M,45.2,M,,*66
+
+$GPGSA,A,3,03,22,23,01,31,11,,,,,,,3.99,2.83,2.82*01
+
+$GPGSV,4,1,13,01,42,148,31,03,84,066,25,06,22,307,,09,22,212,08*7C
+
+$GPGSV,4,2,13,11,18,165,16,12,07,343,11,14,14,047,06,17,38,259,17*71
+
+$GPGSV,4,3,13,19,38,287,,22,59,091,26,23,51,197,25,25,04,017,*7A
+
+$GPGSV,4,4,13,31,28,066,30*40
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152832.00,A,5327.80696,N,00950.60007,E,3.199,149.74,220917,,,A*6C
+
+$GPVTG,149.74,T,,M,3.199,N,5.924,K,A*3A
+
+$GPGGA,152832.00,5327.80696,N,00950.60007,E,1,07,1.32,15.9,M,45.2,M,,*65
+
+$GPGSA,A,3,03,22,23,01,17,31,11,,,,,,2.35,1.32,1.95*0C
+
+$GPGSV,4,1,13,01,42,148,30,03,84,066,23,06,22,307,,09,22,212,*73
+
+$GPGSV,4,2,13,11,18,165,12,12,07,343,08,14,14,047,07,17,38,259,17*7C
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152833.00,A,5327.80639,N,00950.60000,E,2.440,156.02,220917,,,A*60
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152834.00,A,5327.80554,N,00950.60037,E,2.616,167.99,220917,,,A*6A
+
+$GPVTG,167.99,T,,M,2.616,N,4.846,K,A*30
+
+$GPGGA,152834.00,5327.80554,N,00950.60037,E,1,06,1.51,16.0,M,45.2,M,,*63
+
+$GPGSA,A,3,03,22,23,01,17,31,,,,,,,2.88,1.51,2.46*02
+
+$GPGSV,4,1,13,01,42,148,30,03,84,066,23,06,22,307,,09,22,212,15*77
+
+$GPGSV,4,2,13,11,18,165,09,12,07,343,09,14,14,047,12,17,38,259,19*7D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152835.00,A,5327.80474,N,00950.59999,E,2.284,184.51,220917,,,A*69
+
+$GPVTG,184.51,T,,M,2.284,N,4.229,K,A*35
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152836.00,A,5327.80415,N,00950.59863,E,2.879,208.09,220917,,,A*6B
+
+$GPVTG,208.09,T,,M,2.879,N,5.333,K,A*3C
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152837.00,A,5327.80341,N,00950.59843,E,2.588,215.37,220917,,,A*6C
+
+$GPVTG,215.37,T,,M,2.588,N,4.792,K,A*30
+
+$GPGGA,152837.00,5327.80341,N,00950.59843,E,1,08,1.21,16.2,M,45.2,M,,*68
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.32,1.21,1.98*09
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152838.00,A,5327.80276,N,00950.59794,E,2.579,217.54,220917,,,A*6A
+
+$GPVTG,217.54,T,,M,2.579,N,4.775,K,A*30
+
+$GPGGA,152838.00,5327.80276,N,00950.59794,E,1,08,1.21,16.4,M,45.2,M,,*61
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152839.00,A,5327.80210,N,00950.59774,E,2.223,218.89,220917,,,A*62
+
+$GPVTG,218.89,T,,M,2.223,N,4.116,K,A*34
+
+$GPGGA,152839.00,5327.80210,N,00950.59774,E,1,08,1.21,16.4,M,45.2,M,,*6E
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.32,1.21,1.98*09
+
+$GPGSV,4,1,13,01,42,148,31,03,84,066,26,06,22,307,,09,22,212,23*76
+
+$GPGSV,4,2,13,11,18,165,16,12,07,343,08,14,14,047,10,17,38,259,28*72
+
+$GPGSV,4,3,13,19,38,287,20,22,59,091,25,23,51,197,29,25,04,016,*76
+
+$GPGSV,4,4,13,31,28,065,20*42
+
+$GPGLL,5327.80210,N,00950.59774,E,152839.00,A,A*61
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152840.00,A,5327.80164,N,00950.59739,E,2.167,220.66,220917,,,A*6C
+
+$GPVTG,220.66,T,,M,2.167,N,4.013,K,A*39
+
+$GPGGA,152840.00,5327.80164,N,00950.59739,E,1,07,1.27,16.5,M,45.2,M,,*61
+
+$GPGSA,A,3,03,22,23,01,17,19,31,,,,,,2.72,1.27,2.40*08
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152841.00,A,5327.80116,N,00950.59673,E,2.169,221.31,220917,,,A*6A
+
+$GPVTG,221.31,T,,M,2.169,N,4.018,K,A*3F
+
+$GPGGA,152841.00,5327.80116,N,00950.59673,E,1,07,1.27,16.3,M,45.2,M,,*6C
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152842.00,A,5327.80051,N,00950.59626,E,2.183,221.03,220917,,,A*6E
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152843.00,A,5327.79991,N,00950.59586,E,1.902,219.16,220917,,,A*68
+
+$GPVTG,219.16,T,,M,1.902,N,3.523,K,A*3D
+
+$GPGGA,152843.00,5327.79991,N,00950.59586,E,1,07,1.27,16.6,M,45.2,M,,*63
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152844.00,A,5327.79991,N,00950.59609,E,1.739,210.55,220917,,,A*63
+
+$GPVTG,210.55,T,,M,1.739,N,3.221,K,A*30
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152845.00,A,5327.79907,N,00950.59579,E,2.106,206.38,220917,,,A*6C
+
+$GPVTG,206.38,T,,M,2.106,N,3.901,K,A*3C
+
+$GPGGA,152845.00,5327.79907,N,00950.59579,E,1,07,1.27,17.3,M,45.2,M,,*6E
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152846.00,A,5327.79869,N,00950.59537,E,1.756,206.89,220917,,,A*66
+
+$GPVTG,206.89,T,,M,1.756,N,3.252,K,A*3B
+
+$GPGGA,152846.00,5327.79869,N,00950.59537,E,1,07,1.27,17.4,M,45.2,M,,*69
+
+$GPGSA,A,3,03,22,23,01,17,19,31,,,,,,2.72,1.27,2.40*08
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152847.00,A,5327.79822,N,00950.59484,E,2.021,213.16,220917,,,A*67
+
+$GPVTG,213.16,T,,M,2.021,N,3.742,K,A*39
+
+$GPGGA,152847.00,5327.79822,N,00950.59484,E,1,07,1.27,17.6,M,45.2,M,,*6C
+
+$GPGSA,A,3,03,22,23,01,17,19,31,,,,,,2.72,1.27,2.40*08
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152848.00,A,5327.79772,N,00950.59425,E,1.955,217.29,220917,,,A*68
+
+$GPVTG,217.29,T,,M,1.955,N,3.621,K,A*3C
+
+$GPGGA,152848.00,5327.79772,N,00950.59425,E,1,08,1.08,17.7,M,45.2,M,,*61
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,,,,,2.13,1.08,1.83*0E
+
+$GPGSV,4,1,13,01,42,148,31,03,84,066,25,06,22,307,,09,22,212,17*72
+
+$GPGSV,4,2,13,11,18,165,13,12,07,343,,14,14,047,14,17,38,259,27*74
+
+$GPGSV,4,3,13,19,38,287,20,22,59,091,26,23,51,197,30,25,04,016,*7D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152849.00,A,5327.79729,N,00950.59373,E,1.585,222.18,220917,,,A*66
+
+$GPVTG,222.18,T,,M,1.585,N,2.935,K,A*32
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152850.00,A,5327.79695,N,00950.59313,E,1.648,225.66,220917,,,A*62
+
+$GPVTG,225.66,T,,M,1.648,N,3.053,K,A*36
+
+$GPGGA,152850.00,5327.79695,N,00950.59313,E,1,09,0.94,19.4,M,45.2,M,,*6A
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.77,0.94,1.50*00
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152851.00,A,5327.79657,N,00950.59245,E,1.640,231.42,220917,,,A*64
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152852.00,A,5327.79616,N,00950.59168,E,2.101,230.95,220917,,,A*64
+
+$GPVTG,230.95,T,,M,2.101,N,3.891,K,A*31
+
+$GPGGA,152852.00,5327.79616,N,00950.59168,E,1,08,1.21,19.8,M,45.2,M,,*6F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152853.00,A,5327.79577,N,00950.59075,E,2.287,233.99,220917,,,A*6E
+
+$GPVTG,233.99,T,,M,2.287,N,4.235,K,A*30
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPGGA,152853.00,5327.79577,N,00950.59075,E,1,08,1.21,20.4,M,45.2,M,,*61
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152854.00,A,5327.79548,N,00950.59001,E,1.605,238.69,220917,,,A*6F
+
+$GPVTG,238.69,T,,M,1.605,N,2.972,K,A*37
+
+$GPGGA,152854.00,5327.79548,N,00950.59001,E,1,08,1.21,20.2,M,45.2,M,,*6F
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.32,1.21,1.98*09
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152855.00,A,5327.79526,N,00950.58946,E,1.330,,220917,,,A*76
+
+$GPVTG,,T,,M,1.330,N,2.463,K,A*21
+
+$GPGGA,152855.00,5327.79526,N,00950.58946,E,1,08,1.21,20.6,M,45.2,M,,*69
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.32,1.21,1.98*09
+
+$GPGSV,4,1,13,01,41,149,30,03,84,066,26,06,22,307,,09,22,212,20*76
+
+$GPGSV,4,2,13,11,18,165,17,12,07,343,,14,14,047,11,17,38,259,28*7A
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152856.00,A,5327.79511,N,00950.58903,E,1.114,,220917,,,A*74
+
+$GPVTG,,T,,M,1.114,N,2.063,K,A*21
+
+$GPGGA,152856.00,5327.79511,N,00950.58903,E,1,07,1.27,20.9,M,45.2,M,,*69
+
+$GPGSA,A,3,03,22,23,01,17,19,31,,,,,,2.72,1.27,2.40*08
+
+$GPGSV,4,1,13,01,41,149,30,03,84,067,26,06,22,307,,09,22,212,20*77
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152857.00,A,5327.79473,N,00950.58819,E,1.649,240.30,220917,,,A*6E
+
+$GPVTG,240.30,T,,M,1.649,N,3.054,K,A*30
+
+$GPGGA,152857.00,5327.79473,N,00950.58819,E,1,07,1.27,20.9,M,45.2,M,,*67
+
+$GPGSA,A,3,03,22,23,01,17,19,31,,,,,,2.72,1.27,2.40*08
+
+$GPGSV,4,1,13,01,41,149,30,03,84,067,26,06,22,307,,09,22,212,21*76
+
+$GPGSV,4,2,13,11,18,165,14,12,07,343,,14,14,047,09,17,38,259,30*79
+
+$GPGSV,4,3,13,19,38,287,22,22,59,091,25,23,51,197,30,25,04,016,*7C
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152859.00,A,5327.79411,N,00950.58700,E,1.255,229.49,220917,,,A*6B
+
+$GPVTG,229.49,T,,M,1.255,N,2.325,K,A*3C
+
+$GPGGA,152859.00,5327.79411,N,00950.58700,E,1,07,1.27,21.0,M,45.2,M,,*62
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152900.00,A,5327.79354,N,00950.58627,E,1.981,221.23,220917,,,A*62
+
+$GPVTG,221.23,T,,M,1.981,N,3.670,K,A*3E
+
+$GPGGA,152900.00,5327.79354,N,00950.58627,E,1,08,1.27,21.1,M,45.2,M,,*63
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152901.00,A,5327.79289,N,00950.58563,E,1.701,221.11,220917,,,A*66
+
+$GPVTG,221.11,T,,M,1.701,N,3.150,K,A*3C
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152902.00,A,5327.79251,N,00950.58496,E,2.161,220.85,220917,,,A*64
+
+$GPVTG,220.85,T,,M,2.161,N,4.002,K,A*32
+
+$GPGGA,152902.00,5327.79251,N,00950.58496,E,1,09,0.94,19.8,M,45.2,M,,*67
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.77,0.94,1.50*00
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152903.00,A,5327.79202,N,00950.58440,E,1.871,218.89,220917,,,A*64
+
+$GPVTG,218.89,T,,M,1.871,N,3.465,K,A*3C
+
+$GPGGA,152903.00,5327.79202,N,00950.58440,E,1,09,0.94,19.7,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.77,0.94,1.50*00
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152904.00,A,5327.79146,N,00950.58370,E,2.432,220.69,220917,,,A*69
+
+$GPVTG,220.69,T,,M,2.432,N,4.503,K,A*37
+
+$GPGGA,152904.00,5327.79146,N,00950.58370,E,1,09,0.94,19.7,M,45.2,M,,*64
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152905.00,A,5327.79115,N,00950.58315,E,1.734,222.61,220917,,,A*61
+
+$GPVTG,222.61,T,,M,1.734,N,3.212,K,A*3B
+
+$GPGGA,152905.00,5327.79115,N,00950.58315,E,1,09,0.94,19.8,M,45.2,M,,*6F
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.77,0.94,1.49*08
+
+$GPGSV,4,1,13,01,41,149,32,03,84,067,26,06,22,307,,09,22,212,18*7E
+
+$GPGSV,4,2,13,11,18,165,16,12,07,342,,14,14,047,13,17,38,259,27*77
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152906.00,A,5327.79057,N,00950.58253,E,2.299,217.87,220917,,,A*69
+
+$GPVTG,217.87,T,,M,2.299,N,4.258,K,A*3D
+
+$GPGGA,152906.00,5327.79057,N,00950.58253,E,1,09,0.94,20.2,M,45.2,M,,*68
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.77,0.94,1.49*08
+
+$GPGSV,4,1,13,01,41,149,30,03,84,067,25,06,22,307,,09,22,212,17*70
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152907.00,A,5327.79017,N,00950.58193,E,2.014,219.37,220917,,,A*61
+
+$GPVTG,219.37,T,,M,2.014,N,3.731,K,A*32
+
+$GPGGA,152907.00,5327.79017,N,00950.58193,E,1,08,1.21,20.5,M,45.2,M,,*6B
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.32,1.21,1.97*06
+
+$GPGSV,4,1,13,01,41,149,30,03,84,067,25,06,22,307,,09,22,212,14*73
+
+$GPGSV,4,2,13,11,18,165,09,12,07,342,,14,14,047,13,17,38,259,26*78
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152908.00,A,5327.78979,N,00950.58124,E,1.981,224.49,220917,,,A*63
+
+$GPVTG,224.49,T,,M,1.981,N,3.670,K,A*37
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152909.00,A,5327.78966,N,00950.58041,E,1.789,235.66,220917,,,A*65
+
+$GPVTG,235.66,T,,M,1.789,N,3.314,K,A*3B
+
+$GPGGA,152909.00,5327.78966,N,00950.58041,E,1,08,1.21,20.8,M,45.2,M,,*68
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.32,1.21,1.97*06
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152910.00,A,5327.78974,N,00950.57967,E,1.796,247.33,220917,,,A*67
+
+$GPVTG,247.33,T,,M,1.796,N,3.326,K,A*31
+
+$GPGGA,152910.00,5327.78974,N,00950.57967,E,1,08,1.21,21.4,M,45.2,M,,*6C
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.32,1.21,1.97*06
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152911.00,A,5327.78974,N,00950.57883,E,1.792,260.20,220917,,,A*6E
+
+$GPVTG,260.20,T,,M,1.792,N,3.320,K,A*34
+
+$GPGGA,152911.00,5327.78974,N,00950.57883,E,1,08,1.21,21.6,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.32,1.21,1.97*06
+
+$GPGSV,4,1,13,01,41,149,29,03,84,067,25,06,22,307,24,09,22,212,18*71
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152912.00,A,5327.78977,N,00950.57752,E,2.243,271.55,220917,,,A*65
+
+$GPVTG,271.55,T,,M,2.243,N,4.155,K,A*3B
+
+$GPGGA,152912.00,5327.78977,N,00950.57752,E,1,08,1.21,21.7,M,45.2,M,,*66
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.32,1.21,1.97*06
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152913.00,A,5327.78966,N,00950.57660,E,1.588,,220917,,,A*7D
+
+$GPVTG,,T,,M,1.588,N,2.941,K,A*29
+
+$GPGGA,152913.00,5327.78966,N,00950.57660,E,1,08,1.21,21.8,M,45.2,M,,*68
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.32,1.21,1.97*06
+
+$GPGSV,4,1,13,01,41,149,30,03,84,067,27,06,22,307,21,09,22,212,17*71
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152914.00,A,5327.78964,N,00950.57568,E,1.998,269.39,220917,,,A*67
+
+$GPVTG,269.39,T,,M,1.998,N,3.699,K,A*36
+
+$GPGGA,152914.00,5327.78964,N,00950.57568,E,1,09,0.94,21.8,M,45.2,M,,*68
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.77,0.94,1.49*08
+
+$GPGSV,4,1,13,01,41,149,30,03,84,067,26,06,22,307,22,09,22,212,15*71
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152915.00,A,5327.78971,N,00950.57454,E,2.218,272.99,220917,,,A*6C
+
+$GPVTG,272.99,T,,M,2.218,N,4.108,K,A*3E
+
+$GPGGA,152915.00,5327.78971,N,00950.57454,E,1,09,0.94,21.9,M,45.2,M,,*62
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.77,0.94,1.49*08
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152916.00,A,5327.78993,N,00950.57345,E,2.455,279.50,220917,,,A*65
+
+$GPVTG,279.50,T,,M,2.455,N,4.546,K,A*31
+
+$GPGGA,152916.00,5327.78993,N,00950.57345,E,1,09,0.94,21.7,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.77,0.94,1.49*08
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152917.00,A,5327.79030,N,00950.57236,E,2.576,292.26,220917,,,A*64
+
+$GPVTG,292.26,T,,M,2.576,N,4.771,K,A*33
+
+$GPGGA,152917.00,5327.79030,N,00950.57236,E,1,09,0.94,21.6,M,45.2,M,,*60
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152918.00,A,5327.79042,N,00950.57110,E,2.683,298.05,220917,,,A*6B
+
+$GPVTG,298.05,T,,M,2.683,N,4.970,K,A*3E
+
+$GPGGA,152918.00,5327.79042,N,00950.57110,E,1,09,0.94,21.0,M,45.2,M,,*6B
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152919.00,A,5327.79089,N,00950.57008,E,2.554,298.73,220917,,,A*6D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152920.00,A,5327.79133,N,00950.56895,E,2.609,300.30,220917,,,A*66
+
+$GPVTG,300.30,T,,M,2.609,N,4.831,K,A*3E
+
+$GPGGA,152920.00,5327.79133,N,00950.56895,E,1,09,0.94,20.7,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.77,0.94,1.49*08
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152921.00,A,5327.79156,N,00950.56746,E,2.769,297.52,220917,,,A*69
+
+$GPVTG,297.52,T,,M,2.769,N,5.129,K,A*33
+
+$GPGGA,152921.00,5327.79156,N,00950.56746,E,1,09,0.94,20.4,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.77,0.94,1.49*08
+
+$GPGSV,4,1,13,01,41,149,28,03,84,067,28,06,22,307,25,09,22,212,14*70
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152922.00,A,5327.79201,N,00950.56630,E,2.759,298.37,220917,,,A*64
+
+$GPVTG,298.37,T,,M,2.759,N,5.109,K,A*3E
+
+$GPGGA,152922.00,5327.79201,N,00950.56630,E,1,09,0.94,20.1,M,45.2,M,,*63
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.77,0.94,1.49*08
+
+$GPGSV,4,1,13,01,41,149,28,03,84,067,28,06,22,307,22,09,22,212,12*71
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152923.00,A,5327.79239,N,00950.56523,E,2.509,296.52,220917,,,A*65
+
+$GPVTG,296.52,T,,M,2.509,N,4.648,K,A*37
+
+$GPGGA,152923.00,5327.79239,N,00950.56523,E,1,09,0.94,20.1,M,45.2,M,,*68
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.76,0.94,1.49*09
+
+$GPGSV,4,1,13,01,41,149,28,03,84,067,28,06,22,307,22,09,22,212,14*77
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152924.00,A,5327.79264,N,00950.56389,E,2.852,291.74,220917,,,A*6C
+
+$GPVTG,291.74,T,,M,2.852,N,5.283,K,A*35
+
+$GPGGA,152924.00,5327.79264,N,00950.56389,E,1,09,0.94,20.1,M,45.2,M,,*61
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.76,0.94,1.49*09
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152925.00,A,5327.79306,N,00950.56279,E,2.661,293.92,220917,,,A*62
+
+$GPVTG,293.92,T,,M,2.661,N,4.929,K,A*3B
+
+$GPGGA,152925.00,5327.79306,N,00950.56279,E,1,09,0.90,19.8,M,45.2,M,,*6C
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.64,0.90,1.37*07
+
+$GPGSV,4,1,13,01,41,149,28,03,84,067,27,06,22,307,19,09,22,212,16*72
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152926.00,A,5327.79339,N,00950.56164,E,2.761,296.70,220917,,,A*6A
+
+$GPVTG,296.70,T,,M,2.761,N,5.114,K,A*34
+
+$GPGGA,152926.00,5327.79339,N,00950.56164,E,1,09,0.90,19.0,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,11,14,,,,1.64,0.90,1.37*07
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152927.00,A,5327.79373,N,00950.56060,E,2.419,297.08,220917,,,A*62
+
+$GPVTG,297.08,T,,M,2.419,N,4.480,K,A*3F
+
+$GPGGA,152927.00,5327.79373,N,00950.56060,E,1,08,1.21,19.0,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.97*05
+
+$GPGSV,4,1,13,01,41,149,28,03,84,067,28,06,22,307,17,09,22,212,14*71
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,17,14,14,047,14,17,38,258,32*74
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152928.00,A,5327.79399,N,00950.55975,E,2.238,297.72,220917,,,A*6F
+
+$GPVTG,297.72,T,,M,2.238,N,4.145,K,A*3B
+
+$GPGGA,152928.00,5327.79399,N,00950.55975,E,1,08,1.21,19.0,M,45.2,M,,*61
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152929.00,A,5327.79412,N,00950.55852,E,2.496,289.52,220917,,,A*61
+
+$GPVTG,289.52,T,,M,2.496,N,4.622,K,A*32
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152930.00,A,5327.79424,N,00950.55754,E,2.053,290.28,220917,,,A*6D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152931.00,A,5327.79447,N,00950.55654,E,2.336,289.98,220917,,,A*6B
+
+$GPVTG,289.98,T,,M,2.336,N,4.326,K,A*38
+
+$GPGGA,152931.00,5327.79447,N,00950.55654,E,1,08,1.21,19.4,M,45.2,M,,*65
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.97*05
+
+$GPGSV,4,1,13,01,41,149,34,03,84,067,36,06,22,307,24,09,22,212,20*74
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152932.00,A,5327.79463,N,00950.55546,E,2.285,289.94,220917,,,A*6B
+
+$GPVTG,289.94,T,,M,2.285,N,4.231,K,A*3A
+
+$GPGGA,152932.00,5327.79463,N,00950.55546,E,1,08,1.21,19.6,M,45.2,M,,*62
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152933.00,A,5327.79476,N,00950.55435,E,2.295,,220917,,,A*7A
+
+$GPVTG,,T,,M,2.295,N,4.251,K,A*2D
+
+$GPGGA,152933.00,5327.79476,N,00950.55435,E,1,06,2.31,19.8,M,45.2,M,,*60
+
+$GPGSA,A,3,03,22,23,01,31,14,,,,,,,3.23,2.31,2.26*02
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152934.00,A,5327.79492,N,00950.55337,E,2.186,,220917,,,A*73
+
+$GPVTG,,T,,M,2.186,N,4.048,K,A*26
+
+$GPGGA,152934.00,5327.79492,N,00950.55337,E,1,06,2.31,20.0,M,45.2,M,,*6A
+
+$GPGSA,A,3,03,22,23,01,31,14,,,,,,,3.23,2.31,2.26*02
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152935.00,A,5327.79512,N,00950.55239,E,2.163,,220917,,,A*7F
+
+$GPVTG,,T,,M,2.163,N,4.005,K,A*24
+
+$GPGGA,152935.00,5327.79512,N,00950.55239,E,1,07,1.30,20.1,M,45.2,M,,*6F
+
+$GPGSA,A,3,03,22,23,01,19,31,14,,,,,,2.42,1.30,2.04*0E
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152936.00,A,5327.79484,N,00950.55169,E,1.731,,220917,,,A*76
+
+$GPVTG,,T,,M,1.731,N,3.206,K,A*20
+
+$GPGGA,152936.00,5327.79484,N,00950.55169,E,1,08,1.21,20.1,M,45.2,M,,*6B
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.97*05
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152937.00,A,5327.79457,N,00950.55102,E,1.626,,220917,,,A*73
+
+$GPVTG,,T,,M,1.626,N,3.011,K,A*23
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPGGA,152937.00,5327.79457,N,00950.55102,E,1,06,1.35,20.1,M,45.2,M,,*62
+
+$GPGSA,A,3,03,22,23,01,19,14,,,,,,,2.46,1.35,2.05*0C
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152938.00,A,5327.79387,N,00950.55078,E,1.605,,220917,,,A*7B
+
+$GPVTG,,T,,M,1.605,N,2.973,K,A*2E
+
+$GPGGA,152938.00,5327.79387,N,00950.55078,E,1,06,1.99,20.0,M,45.2,M,,*6C
+
+$GPGSA,A,3,03,22,23,01,19,11,,,,,,,4.49,1.99,4.02*07
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152939.00,V,,,,,,,220917,,,N*77
+
+$GPVTG,,,,,,,,,N*30
+
+$GPGGA,152939.00,,,,,0,00,99.99,,,,,,*63
+
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+
+$GPGSV,4,1,14,01,41,149,27,03,84,067,23,04,,,22,06,22,307,09*44
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPGSV,4,2,14,09,22,212,17,11,18,165,21,12,07,342,02,14,14,047,03*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152940.00,V,,,,,,,220917,,,N*79
+
+$GPVTG,,,,,,,,,N*30
+
+$GPGGA,152940.00,,,,,0,00,99.99,,,,,,*6D
+
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+
+$GPGSV,4,1,14,01,41,149,23,03,84,068,21,04,,,20,06,22,307,*46
+
+$GPGSV,4,2,14,09,22,212,14,11,18,165,19,12,07,342,,14,14,047,*76
+
+$GPGSV,4,3,14,17,38,258,19,19,38,286,09,22,59,091,,23,51,197,22*79
+
+$GPGSV,4,4,14,25,04,016,20,31,28,065,08*79
+
+$GPGLL,,,,,152940.00,V,N*41
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152941.00,V,,,,,,,220917,,,N*78
+
+$GPVTG,,,,,,,,,N*30
+
+$GPGGA,152941.00,,,,,0,00,99.99,,,,,,*6C
+
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+
+$GPGSV,4,1,14,01,41,149,20,03,84,068,,04,,,16,06,22,307,*43
+
+$GPGSV,4,2,14,09,22,212,11,11,18,165,15,12,07,342,,14,14,047,*7F
+
+$GPGSV,4,3,14,17,38,258,12,19,38,286,09,22,59,091,,23,51,197,21*71
+
+$GPGSV,4,4,14,25,04,016,20,31,28,065,11*71
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152942.00,V,,,,,,,220917,,,N*7B
+
+$GPVTG,,,,,,,,,N*30
+
+$GPGGA,152942.00,,,,,0,00,99.99,,,,,,*6F
+
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+
+$GPGSV,4,1,14,01,41,149,17,03,84,068,21,04,,,11,06,22,307,11*43
+
+$GPGSV,4,2,14,09,22,212,11,11,18,165,10,12,07,342,,14,14,047,*7A
+
+$GPGSV,4,3,14,17,38,258,10,19,38,286,09,22,59,091,,23,51,197,18*79
+
+$GPGSV,4,4,14,25,04,016,17,31,28,065,12*76
+
+$GPGLL,,,,,152942.00,V,N*43
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152943.00,V,,,,,,,220917,,,N*7A
+
+$GPVTG,,,,,,,,,N*30
+
+$GPGGA,152943.00,,,,,0,00,99.99,,,,,,*6E
+
+$GPGSA,A,1,,,,,,,,,,,,,99.99,99.99,99.99*30
+
+$GPGSV,4,1,13,01,41,149,16,03,84,068,21,06,22,307,08,09,22,212,*71
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,,14,14,047,,17,38,258,08*7E
+
+$GPGSV,4,3,13,19,38,286,08,22,59,091,17,23,51,197,16,25,04,016,13*72
+
+$GPGSV,4,4,13,31,28,065,10*41
+
+$GPGLL,,,,,152943.00,V,N*42
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152944.00,A,5327.79234,N,00950.54592,E,1.797,,220917,,,A*73
+
+$GPVTG,,T,,M,1.797,N,3.327,K,A*2E
+
+$GPGGA,152944.00,5327.79234,N,00950.54592,E,1,03,3.08,19.7,M,45.2,M,,*6C
+
+$GPGSA,A,2,23,01,31,,,,,,,,,,3.24,3.08,1.00*0E
+
+$GPGSV,4,1,13,01,41,149,14,03,84,068,19,06,22,307,08,09,22,212,*78
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,,14,14,047,,17,38,258,09*7F
+
+$GPGSV,4,3,13,19,38,286,09,22,59,091,14,23,51,197,12,25,04,016,13*74
+
+$GPGSV,4,4,13,31,28,065,11*40
+
+$GPGLL,5327.79234,N,00950.54592,E,152944.00,A,A*6D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152945.00,A,5327.79183,N,00950.54546,E,1.519,,220917,,,A*70
+
+$GPVTG,,T,,M,1.519,N,2.814,K,A*20
+
+$GPGGA,152945.00,5327.79183,N,00950.54546,E,1,06,3.60,19.9,M,45.2,M,,*6E
+
+$GPGSA,A,3,03,23,01,17,19,31,,,,,,,6.05,3.60,4.86*01
+
+$GPGSV,4,1,13,01,41,149,17,03,84,068,18,06,22,307,08,09,22,212,*7A
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,,14,14,047,,17,38,258,10*77
+
+$GPGSV,4,3,13,19,38,286,10,22,59,091,13,23,51,197,25,25,04,016,14*78
+
+$GPGSV,4,4,13,31,28,065,12*43
+
+$GPGLL,5327.79183,N,00950.54546,E,152945.00,A,A*6A
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152946.00,A,5327.79236,N,00950.54658,E,0.818,,220917,,,A*7F
+
+$GPVTG,,T,,M,0.818,N,1.516,K,A*21
+
+$GPGGA,152946.00,5327.79236,N,00950.54658,E,1,03,3.11,19.8,M,45.2,M,,*6E
+
+$GPGSA,A,2,03,23,01,,,,,,,,,,3.27,3.11,1.00*04
+
+$GPGSV,4,1,13,01,41,149,34,03,84,068,20,06,22,307,08,09,22,212,18*79
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,,14,14,047,,17,38,258,10*77
+
+$GPGSV,4,3,13,19,38,286,10,22,59,091,26,23,51,197,32,25,04,016,14*78
+
+$GPGSV,4,4,13,31,28,065,12*43
+
+$GPGLL,5327.79236,N,00950.54658,E,152946.00,A,A*68
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152947.00,A,5327.79264,N,00950.54777,E,0.292,,220917,,,A*7D
+
+$GPVTG,,T,,M,0.292,N,0.540,K,A*2B
+
+$GPGGA,152947.00,5327.79264,N,00950.54777,E,1,05,2.90,20.0,M,45.2,M,,*68
+
+$GPGSA,A,3,03,22,23,01,31,,,,,,,,4.60,2.90,3.57*0B
+
+$GPGSV,4,1,13,01,41,149,34,03,84,068,25,06,22,307,08,09,22,212,19*7D
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,,14,14,047,25,17,38,258,10*70
+
+$GPGSV,4,3,13,19,38,286,10,22,59,091,32,23,51,197,33,25,04,016,14*7C
+
+$GPGSV,4,4,13,31,28,065,29*4B
+
+$GPGLL,5327.79264,N,00950.54777,E,152947.00,A,A*62
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152948.00,A,5327.79249,N,00950.54879,E,0.237,,220917,,,A*73
+
+$GPVTG,,T,,M,0.237,N,0.439,K,A*2B
+
+$GPGGA,152948.00,5327.79249,N,00950.54879,E,1,05,2.90,20.2,M,45.2,M,,*6B
+
+$GPGSA,A,3,03,22,23,01,31,,,,,,,,4.60,2.90,3.57*0B
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,08,09,22,212,20*76
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,21,14,14,047,20,17,38,258,08*7F
+
+$GPGSV,4,3,13,19,38,286,08,22,59,091,33,23,51,197,32,25,04,016,12*73
+
+$GPGSV,4,4,13,31,28,065,33*40
+
+$GPGLL,5327.79249,N,00950.54879,E,152948.00,A,A*63
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152949.00,A,5327.79276,N,00950.54949,E,0.179,,220917,,,A*75
+
+$GPVTG,,T,,M,0.179,N,0.332,K,A*2E
+
+$GPGGA,152949.00,5327.79276,N,00950.54949,E,1,05,2.90,20.4,M,45.2,M,,*62
+
+$GPGSA,A,3,03,22,23,01,31,,,,,,,,4.60,2.90,3.57*0B
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,08,09,22,212,20*77
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,21,14,14,047,17,17,38,258,18*7A
+
+$GPGSV,4,3,13,19,38,286,18,22,59,091,32,23,51,197,32,25,04,016,*70
+
+$GPGSV,4,4,13,31,28,065,28*4A
+
+$GPGLL,5327.79276,N,00950.54949,E,152949.00,A,A*6C
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152950.00,A,5327.79325,N,00950.54970,E,0.096,,220917,,,A*70
+
+$GPVTG,,T,,M,0.096,N,0.178,K,A*22
+
+$GPGGA,152950.00,5327.79325,N,00950.54970,E,1,05,2.90,20.6,M,45.2,M,,*65
+
+$GPGSA,A,3,03,22,23,01,31,,,,,,,,4.60,2.90,3.57*0B
+
+$GPGSV,4,1,13,01,41,149,32,03,84,068,33,06,22,307,,09,22,212,19*74
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,19,14,14,047,09,17,38,258,17*71
+
+$GPGSV,4,3,13,19,38,286,17,22,59,091,31,23,51,197,31,25,04,016,*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152951.00,A,5327.79343,N,00950.55028,E,0.096,,220917,,,A*74
+
+$GPVTG,,T,,M,0.096,N,0.178,K,A*22
+
+$GPGGA,152951.00,5327.79343,N,00950.55028,E,1,05,2.90,20.4,M,45.2,M,,*63
+
+$GPGSA,A,3,03,22,23,01,31,,,,,,,,4.60,2.90,3.57*0B
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,18,14,14,047,08,17,38,258,18*7E
+
+$GPGSV,4,3,13,19,38,286,16,22,59,091,32,23,51,197,31,25,04,016,*7D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152952.00,A,5327.79369,N,00950.55028,E,0.095,,220917,,,A*7C
+
+$GPVTG,,T,,M,0.095,N,0.176,K,A*2F
+
+$GPGGA,152952.00,5327.79369,N,00950.55028,E,1,06,1.51,20.1,M,45.2,M,,*60
+
+$GPGSA,A,3,03,22,23,01,17,31,,,,,,,2.88,1.51,2.45*01
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,20*7E
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,17,14,14,047,,17,38,258,19*78
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152953.00,A,5327.79390,N,00950.55041,E,0.102,,220917,,,A*7B
+
+$GPVTG,,T,,M,0.102,N,0.189,K,A*20
+
+$GPGGA,152953.00,5327.79390,N,00950.55041,E,1,07,1.27,20.0,M,45.2,M,,*69
+
+$GPGSA,A,3,03,22,23,01,17,19,31,,,,,,2.72,1.27,2.40*08
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,20*7E
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,17,14,14,047,22,17,38,258,20*72
+
+$GPGSV,4,3,13,19,38,286,15,22,59,091,31,23,51,197,31,25,04,016,*7D
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152954.00,A,5327.79422,N,00950.55046,E,0.110,,220917,,,A*76
+
+$GPVTG,,T,,M,0.110,N,0.204,K,A*25
+
+$GPGGA,152954.00,5327.79422,N,00950.55046,E,1,07,1.27,19.9,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,,,,,,2.72,1.27,2.40*08
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,20*7E
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152955.00,A,5327.79435,N,00950.55077,E,0.161,,220917,,,A*75
+
+$GPVTG,,T,,M,0.161,N,0.298,K,A*26
+
+$GPGGA,152955.00,5327.79435,N,00950.55077,E,1,07,1.27,19.8,M,45.2,M,,*60
+
+$GPGSA,A,3,03,22,23,01,17,19,31,,,,,,2.72,1.27,2.40*08
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,19*74
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,17,14,14,047,26,17,38,258,21*77
+
+$GPGSV,4,3,13,19,38,286,17,22,59,091,31,23,51,197,31,25,04,016,*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152956.00,A,5327.79455,N,00950.55120,E,0.132,,220917,,,A*75
+
+$GPVTG,,T,,M,0.132,N,0.245,K,A*20
+
+$GPGGA,152956.00,5327.79455,N,00950.55120,E,1,08,1.21,19.4,M,45.2,M,,*63
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,19*74
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,17,14,14,047,26,17,38,258,20*76
+
+$GPGSV,4,3,13,19,38,286,17,22,59,091,32,23,51,197,31,25,04,016,*7C
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79455,N,00950.55120,E,152956.00,A,A*63
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152957.00,A,5327.79484,N,00950.55121,E,0.231,,220917,,,A*79
+
+$GPVTG,,T,,M,0.231,N,0.427,K,A*22
+
+$GPGGA,152957.00,5327.79484,N,00950.55121,E,1,08,1.21,19.2,M,45.2,M,,*69
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,16,14,14,047,26,17,38,258,19*7D
+
+$GPGSV,4,3,13,19,38,286,16,22,59,091,32,23,51,197,31,25,04,016,*7D
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79484,N,00950.55121,E,152957.00,A,A*6F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152958.00,A,5327.79485,N,00950.55146,E,0.077,,220917,,,A*76
+
+$GPVTG,,T,,M,0.077,N,0.142,K,A*24
+
+$GPGGA,152958.00,5327.79485,N,00950.55146,E,1,08,1.21,19.0,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,21*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,16,14,14,047,26,17,38,258,19*7D
+
+$GPGSV,4,3,13,19,38,286,17,22,59,091,32,23,51,197,31,25,04,016,*7C
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79485,N,00950.55146,E,152958.00,A,A*60
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,152959.00,A,5327.79480,N,00950.55157,E,0.079,,220917,,,A*7C
+
+$GPVTG,,T,,M,0.079,N,0.147,K,A*2F
+
+$GPGGA,152959.00,5327.79480,N,00950.55157,E,1,08,1.21,18.9,M,45.2,M,,*68
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,16,14,14,047,26,17,38,258,20*77
+
+$GPGSV,4,3,13,19,38,286,18,22,59,091,32,23,51,197,31,25,04,016,*73
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79480,N,00950.55157,E,152959.00,A,A*64
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153000.00,A,5327.79480,N,00950.55181,E,0.078,,220917,,,A*72
+
+$GPVTG,,T,,M,0.078,N,0.144,K,A*2D
+
+$GPGGA,153000.00,5327.79480,N,00950.55181,E,1,08,1.21,18.7,M,45.2,M,,*69
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,17,14,14,047,26,17,38,258,20*76
+
+$GPGSV,4,3,13,19,38,286,18,22,59,091,32,23,51,197,31,25,04,016,*73
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79480,N,00950.55181,E,153000.00,A,A*6B
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,00,txbuf alloc*7F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153001.00,A,5327.79475,N,00950.55197,E,0.163,,220917,,,A*75
+
+$GPVTG,,T,,M,0.163,N,0.301,K,A*25
+
+$GPGGA,153001.00,5327.79475,N,00950.55197,E,1,08,1.21,18.6,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,17,14,14,047,26,17,38,258,21*77
+
+$GPGSV,4,3,13,19,38,286,19,22,59,091,31,23,51,197,31,25,04,016,*71
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79475,N,00950.55197,E,153001.00,A,A*67
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153002.00,A,5327.79469,N,00950.55211,E,0.165,,220917,,,A*70
+
+$GPVTG,,T,,M,0.165,N,0.306,K,A*24
+
+$GPGGA,153002.00,5327.79469,N,00950.55211,E,1,08,1.21,18.5,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,20*7E
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,16,14,14,047,26,17,38,258,21*76
+
+$GPGSV,4,3,13,19,38,286,19,22,59,091,32,23,51,197,31,25,04,016,*72
+
+$GPGSV,4,4,13,31,28,065,31*42
+
+$GPGLL,5327.79469,N,00950.55211,E,153002.00,A,A*64
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153003.00,A,5327.79465,N,00950.55230,E,0.032,,220917,,,A*7D
+
+$GPVTG,,T,,M,0.032,N,0.059,K,A*2E
+
+$GPGGA,153003.00,5327.79465,N,00950.55230,E,1,08,1.21,18.4,M,45.2,M,,*6B
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,20*7E
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,17,14,14,047,26,17,38,258,21*77
+
+$GPGSV,4,3,13,19,38,286,19,22,59,091,31,23,51,197,31,25,04,016,*71
+
+$GPGSV,4,4,13,31,28,065,31*42
+
+$GPGLL,5327.79465,N,00950.55230,E,153003.00,A,A*6A
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153004.00,A,5327.79466,N,00950.55246,E,0.076,,220917,,,A*78
+
+$GPVTG,,T,,M,0.076,N,0.142,K,A*25
+
+$GPGGA,153004.00,5327.79466,N,00950.55246,E,1,08,1.21,18.4,M,45.2,M,,*6E
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,21*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,17,14,14,047,26,17,38,258,21*77
+
+$GPGSV,4,3,13,19,38,286,19,22,59,091,31,23,51,197,31,25,04,016,*71
+
+$GPGSV,4,4,13,31,28,065,31*42
+
+$GPGLL,5327.79466,N,00950.55246,E,153004.00,A,A*6F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153005.00,A,5327.79469,N,00950.55249,E,0.317,,220917,,,A*7D
+
+$GPVTG,,T,,M,0.317,N,0.587,K,A*2C
+
+$GPGGA,153005.00,5327.79469,N,00950.55249,E,1,08,1.21,18.3,M,45.2,M,,*68
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,21*7E
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,17,14,14,047,26,17,38,258,21*77
+
+$GPGSV,4,3,13,19,38,286,19,22,59,091,31,23,51,197,31,25,04,016,*71
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79469,N,00950.55249,E,153005.00,A,A*6E
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153006.00,A,5327.79469,N,00950.55263,E,0.118,,220917,,,A*7B
+
+$GPVTG,,T,,M,0.118,N,0.218,K,A*20
+
+$GPGGA,153006.00,5327.79469,N,00950.55263,E,1,08,1.21,18.4,M,45.2,M,,*64
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,16,14,14,047,26,17,38,258,22*75
+
+$GPGSV,4,3,13,19,38,286,19,22,59,091,30,23,51,197,31,25,04,016,*70
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79469,N,00950.55263,E,153006.00,A,A*65
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153007.00,A,5327.79470,N,00950.55263,E,0.150,,220917,,,A*7E
+
+$GPVTG,,T,,M,0.150,N,0.278,K,A*2A
+
+$GPGGA,153007.00,5327.79470,N,00950.55263,E,1,08,1.21,18.4,M,45.2,M,,*6D
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,15,14,14,047,26,17,38,258,22*76
+
+$GPGSV,4,3,13,19,38,286,19,22,59,091,30,23,51,197,31,25,04,016,*70
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79470,N,00950.55263,E,153007.00,A,A*6C
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153008.00,A,5327.79468,N,00950.55273,E,0.107,,220917,,,A*7B
+
+$GPVTG,,T,,M,0.107,N,0.198,K,A*25
+
+$GPGGA,153008.00,5327.79468,N,00950.55273,E,1,08,1.21,18.4,M,45.2,M,,*6A
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,15,14,14,047,26,17,38,258,22*76
+
+$GPGSV,4,3,13,19,38,286,19,22,59,091,31,23,51,197,31,25,04,016,*71
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79468,N,00950.55273,E,153008.00,A,A*6B
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153009.00,A,5327.79465,N,00950.55284,E,0.131,,220917,,,A*7A
+
+$GPVTG,,T,,M,0.131,N,0.242,K,A*24
+
+$GPGGA,153009.00,5327.79465,N,00950.55284,E,1,08,1.21,18.4,M,45.2,M,,*6E
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPGSV,4,1,13,01,41,149,32,03,84,068,33,06,22,307,,09,22,212,20*7E
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,15,14,14,047,26,17,38,258,21*75
+
+$GPGSV,4,3,13,19,38,286,19,22,59,091,31,23,51,197,32,25,04,016,*72
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79465,N,00950.55284,E,153009.00,A,A*6F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153010.00,A,5327.79460,N,00950.55296,E,0.145,,220917,,,A*77
+
+$GPVTG,,T,,M,0.145,N,0.268,K,A*2F
+
+$GPGGA,153010.00,5327.79460,N,00950.55296,E,1,08,1.21,18.3,M,45.2,M,,*67
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,16,14,14,047,26,17,38,258,22*75
+
+$GPGSV,4,3,13,19,38,286,19,22,59,091,31,23,51,197,31,25,04,016,*71
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79460,N,00950.55296,E,153010.00,A,A*61
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153011.00,A,5327.79458,N,00950.55298,E,0.098,,220917,,,A*72
+
+$GPVTG,,T,,M,0.098,N,0.181,K,A*2A
+
+$GPGGA,153011.00,5327.79458,N,00950.55298,E,1,08,1.21,18.3,M,45.2,M,,*63
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,16,14,14,047,26,17,38,258,22*75
+
+$GPGSV,4,3,13,19,38,286,18,22,59,091,31,23,51,197,31,25,04,016,*70
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79458,N,00950.55298,E,153011.00,A,A*65
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153012.00,A,5327.79454,N,00950.55300,E,0.070,,220917,,,A*7B
+
+$GPVTG,,T,,M,0.070,N,0.130,K,A*26
+
+$GPGGA,153012.00,5327.79454,N,00950.55300,E,1,08,1.21,18.2,M,45.2,M,,*6D
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,16,14,14,047,26,17,38,258,22*75
+
+$GPGSV,4,3,13,19,38,286,18,22,59,091,31,23,51,197,31,25,04,016,*70
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79454,N,00950.55300,E,153012.00,A,A*6A
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153013.00,A,5327.79449,N,00950.55321,E,0.049,,220917,,,A*7F
+
+$GPVTG,,T,,M,0.049,N,0.091,K,A*26
+
+$GPGGA,153013.00,5327.79449,N,00950.55321,E,1,08,1.21,18.3,M,45.2,M,,*62
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.31,1.21,1.96*04
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,16,14,14,047,26,17,38,258,23*74
+
+$GPGSV,4,3,13,19,38,286,16,22,59,091,31,23,51,197,31,25,04,016,*7E
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79449,N,00950.55321,E,153013.00,A,A*64
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153014.00,A,5327.79443,N,00950.55338,E,0.057,,220917,,,A*75
+
+$GPVTG,,T,,M,0.057,N,0.105,K,A*25
+
+$GPGGA,153014.00,5327.79443,N,00950.55338,E,1,08,1.21,18.4,M,45.2,M,,*60
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.30,1.21,1.96*05
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,21*7E
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,16,14,14,047,26,17,38,258,22*75
+
+$GPGSV,4,3,13,19,38,286,14,22,59,091,31,23,51,197,31,25,04,016,*7C
+
+$GPGSV,4,4,13,31,28,065,33*40
+
+$GPGLL,5327.79443,N,00950.55338,E,153014.00,A,A*61
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153015.00,A,5327.79438,N,00950.55339,E,0.090,,220917,,,A*72
+
+$GPVTG,,T,,M,0.090,N,0.167,K,A*2A
+
+$GPGGA,153015.00,5327.79438,N,00950.55339,E,1,08,1.21,18.4,M,45.2,M,,*6C
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.30,1.21,1.96*05
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,21*7E
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,15,14,14,047,26,17,38,258,22*76
+
+$GPGSV,4,3,13,19,38,286,14,22,59,091,31,23,51,197,32,25,04,016,*7F
+
+$GPGSV,4,4,13,31,28,065,33*40
+
+$GPGLL,5327.79438,N,00950.55339,E,153015.00,A,A*6D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153016.00,A,5327.79437,N,00950.55334,E,0.106,,220917,,,A*7D
+
+$GPVTG,,T,,M,0.106,N,0.197,K,A*2B
+
+$GPGGA,153016.00,5327.79437,N,00950.55334,E,1,08,1.21,18.3,M,45.2,M,,*6A
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.30,1.21,1.96*05
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,20*7E
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,14,14,14,047,26,17,38,258,22*77
+
+$GPGSV,4,3,13,19,38,286,14,22,59,091,31,23,51,197,31,25,04,016,*7C
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79437,N,00950.55334,E,153016.00,A,A*6C
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153017.00,A,5327.79435,N,00950.55341,E,0.058,,220917,,,A*76
+
+$GPVTG,,T,,M,0.058,N,0.107,K,A*28
+
+$GPGGA,153017.00,5327.79435,N,00950.55341,E,1,08,1.21,18.3,M,45.2,M,,*6B
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.30,1.21,1.96*05
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,33,06,22,307,,09,22,212,20*7F
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,13,14,14,047,26,17,38,258,21*73
+
+$GPGSV,4,3,13,19,38,286,15,22,59,091,31,23,51,197,31,25,04,016,*7D
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79435,N,00950.55341,E,153017.00,A,A*6D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153018.00,A,5327.79433,N,00950.55341,E,0.121,,220917,,,A*70
+
+$GPVTG,,T,,M,0.121,N,0.224,K,A*25
+
+$GPGGA,153018.00,5327.79433,N,00950.55341,E,1,08,1.21,18.3,M,45.2,M,,*62
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.30,1.21,1.96*05
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,20*7E
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,14,14,14,047,26,17,38,258,21*74
+
+$GPGSV,4,3,13,19,38,286,15,22,59,091,31,23,51,197,31,25,04,016,*7D
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79433,N,00950.55341,E,153018.00,A,A*64
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153019.00,A,5327.79430,N,00950.55349,E,0.044,,220917,,,A*78
+
+$GPVTG,,T,,M,0.044,N,0.081,K,A*2A
+
+$GPGGA,153019.00,5327.79430,N,00950.55349,E,1,08,1.21,18.3,M,45.2,M,,*68
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.30,1.21,1.96*05
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,20*7E
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,15,14,14,047,26,17,38,258,21*75
+
+$GPGSV,4,3,13,19,38,286,15,22,59,091,31,23,51,197,31,25,04,016,*7D
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79430,N,00950.55349,E,153019.00,A,A*6E
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153020.00,A,5327.79430,N,00950.55352,E,0.023,,220917,,,A*79
+
+$GPVTG,,T,,M,0.023,N,0.043,K,A*25
+
+$GPGGA,153020.00,5327.79430,N,00950.55352,E,1,08,1.21,18.4,M,45.2,M,,*6F
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.30,1.21,1.96*05
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,20*7E
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,15,14,14,047,25,17,38,258,21*76
+
+$GPGSV,4,3,13,19,38,286,14,22,59,091,31,23,51,197,31,25,04,016,*7C
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79430,N,00950.55352,E,153020.00,A,A*6E
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153021.00,A,5327.79441,N,00950.55345,E,0.028,,220917,,,A*73
+
+$GPVTG,,T,,M,0.028,N,0.052,K,A*2E
+
+$GPGGA,153021.00,5327.79441,N,00950.55345,E,1,08,1.19,18.1,M,45.2,M,,*60
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.19,1.19,1.83*01
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,19*74
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,15,14,14,047,25,17,38,258,21*76
+
+$GPGSV,4,3,13,19,38,286,13,22,59,091,32,23,51,197,31,25,04,016,*78
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79441,N,00950.55345,E,153021.00,A,A*6F
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153022.00,A,5327.79448,N,00950.55333,E,0.133,,220917,,,A*73
+
+$GPVTG,,T,,M,0.133,N,0.246,K,A*22
+
+$GPGGA,153022.00,5327.79448,N,00950.55333,E,1,08,1.19,17.8,M,45.2,M,,*6D
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.19,1.19,1.83*01
+
+$GPGSV,4,1,13,01,41,149,34,03,84,068,32,06,22,307,,09,22,212,19*73
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,,14,14,047,25,17,38,258,21*72
+
+$GPGSV,4,3,13,19,38,286,13,22,59,091,32,23,51,197,31,25,04,016,*78
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79448,N,00950.55333,E,153022.00,A,A*64
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153023.00,A,5327.79450,N,00950.55331,E,0.039,,220917,,,A*72
+
+$GPVTG,,T,,M,0.039,N,0.072,K,A*2C
+
+$GPGGA,153023.00,5327.79450,N,00950.55331,E,1,08,1.21,17.8,M,45.2,M,,*6C
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.30,1.21,1.96*05
+
+$GPGSV,4,1,13,01,41,149,33,03,84,068,32,06,22,307,,09,22,212,19*74
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,,14,14,047,25,17,38,258,21*72
+
+$GPGSV,4,3,13,19,38,286,13,22,59,091,31,23,51,197,31,25,04,016,*7B
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79450,N,00950.55331,E,153023.00,A,A*6E
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153024.00,A,5327.79450,N,00950.55335,E,0.037,,220917,,,A*7F
+
+$GPVTG,,T,,M,0.037,N,0.069,K,A*28
+
+$GPGGA,153024.00,5327.79450,N,00950.55335,E,1,08,1.21,17.8,M,45.2,M,,*6F
+
+$GPGSA,A,3,03,22,23,01,17,19,31,14,,,,,2.30,1.21,1.96*05
+
+$GPGSV,4,1,13,01,41,149,34,03,83,069,31,06,22,307,,09,22,212,19*76
+
+$GPGSV,4,2,13,11,18,165,,12,07,342,,14,14,047,25,17,38,258,20*73
+
+$GPGSV,4,3,13,19,38,286,12,22,59,091,31,23,51,197,31,25,04,016,*7A
+
+$GPGSV,4,4,13,31,28,065,32*41
+
+$GPGLL,5327.79450,N,00950.55335,E,153024.00,A,A*6D
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPTXT,01,01,01,NMEA unknown msg*58
+
+$GPRMC,153025.00,A,5327.79453,N,00950.55342,E,0.199,,220917,,,A*78
+
+$GPVTG,,T,,M,0.199,N,0.369,K,A*2E
+
+
