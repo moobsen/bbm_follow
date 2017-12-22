@@ -46,7 +46,6 @@ import argparse
 from geopy.distance import vincenty
 
 #TODO sort and modulize, e.g. proper main function
-#TODO seperate into own propper repo
 #TODO cleanup denglish
 
 GPIO.setmode(GPIO.BCM)
@@ -126,9 +125,9 @@ def arm_and_takeoff(aTargetAltitude):
   """
   logging.info("Basic pre-arm checks")
   # don't let the user try to arm until autopilot is ready
-  while not vehicle.is_armable:
-    logging.info(" Waiting for vehicle to initialise...")
-    time.sleep(1)
+  #while not vehicle.is_armable:
+  #  logging.info(" Waiting for vehicle to initialise...")
+  #  time.sleep(1)
   logging.info("Arming motors")
   # Copter should arm in GUIDED mode
   vehicle.mode = dronekit.VehicleMode("GUIDED")
@@ -190,28 +189,37 @@ try:
     gpsd.next()
     # once we have a valid location (see gpsd documentation) we can start
     if (gpsd.valid & gps.LATLON_SET) != 0:
-      dest = dronekit.LocationGlobalRelative(gpsd.fix.latitude, 
+      dest = dronekit.LocationGlobal(gpsd.fix.latitude, 
           gpsd.fix.longitude, gpsd.fix.altitude)
-      logging.debug("GPS altitude is: %s" % dest.alt)
+      alt_gpsbox = dest.alt
       delta_z=0
-      if math.isnan(dest.alt):
+      if math.isnan(alt_gpsbox):
         # NO new Z info from box (altitude)
         if last_alt==0:
-          dest.alt=FLY_ALTITUDE
+          dest = dronekit.LocationGlobalRelative(dest.lat, dest.lon, 
+                                                 FLY_ALTITUDE)
         else:
-          dest = dronekit.LocationGlobal(dest.lat, dest.lon, last_alt)
+          dest.alt = last_alt
       else:
         # new Z info from box exists
         # before it's accepted, check altitude error
-        z_dilution = gpsd.fix.epv
+        alt_gpsbox_dilution = gpsd.fix.epv
         # check altitude and dilution reported from drone
-        alt_drone_global = vehicle.location.global_frame.alt 
-        alt_dilution_drone = vehicle.gps_0.epv
+        alt_drone = vehicle.location.global_frame.alt 
+        alt_drone_dilution = vehicle.gps_0.epv
+        logging.info('GPS box alt: %d +- %d | Drone alt: %d +- %d'
+          % (alt_gpsbox, alt_gpsbox_dilution, alt_drone, alt_drone_dilution) )
         # check if the altitude "uncertainty bubbles" touch
-        if dest.alt + z_dilution < alt_drone_global - alt_dilution_drone: 
+        if alt_gpsbox + alt_gpsbox_dilution < alt_drone - alt_drone_dilution: 
           delta_z = last_alt - (dest.alt+FLY_ALTITUDE)
-          last_alt = dest.alt+FLY_ALTITUDE
+          last_alt = alt_gpsbox+FLY_ALTITUDE
           dest = dronekit.LocationGlobal(dest.lat, dest.lon, last_alt)
+        else:
+          if last_alt==0:
+            dest = dronekit.LocationGlobalRelative(dest.lat, dest.lon, 
+                                                   FLY_ALTITUDE)
+          else:
+            dest.alt = last_alt
       # check the distance between current and last position
       distance = vincenty( (last_dest.lat, last_dest.lon),
                            (dest.lat, dest.lon) ).meters
@@ -221,11 +229,11 @@ try:
       if distance > MIN_DISTANCE:
         logging.info('Going to: %s' % dest)
         vehicle.simple_goto(dest)
-      last_dest=dest
+        last_dest=dest
       time.sleep(GPS_REFRESH) #this needs to be smaller than 1s (see above)
     else:
       logging.warn("Currently no good GPS Signal")
-      time.sleep(2)
+      time.sleep(GPS_REFRESH)
   # broke away from main loop
   cleanup()
       
@@ -236,7 +244,7 @@ except socket.error:
   sys.exit(1)
 
 except (KeyboardInterrupt, SystemExit):
-  logging.warn("Caught keyboard interrupt")
+  logging.info("Caught keyboard interrupt")
   cleanup()
   sys.exit(0)
 
