@@ -1,22 +1,22 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 """
-Copyright {2017} {Bluebird Mountain | Moritz Obermeier}
-built on the follow me example distributed with dronekit source
+    Copyright {2018} {Bluebird Mountain | Moritz Obermeier}
 
-original copyright notice
-© Copyright 2015-2016, 3D Robotics.
-followme - Tracks GPS position of your computer (Linux only).
+    This program is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
-This example uses the python gps package to read positions from a GPS attached 
-to your laptop and sends a new vehicle.simple_goto command every two seconds to
-move the vehicle to the current point.
+    This program is distributed in the hope that it will be useful,
+    but WITHOUT ANY WARRANTY; without even the implied warranty of
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    GNU General Public License for more details.
 
-When you want to stop follow-me, either change vehicle modes or type Ctrl+C to
-exit the script.
-
-Example documentation: http://python.dronekit.io/examples/follow_me.html
+    You should have received a copy of the GNU General Public License
+    along with this program.  If not, see <http://www.gnu.org/licenses/>.
 """
+
 #################### PARAMETERS ################################################
 #GPIOs (using BCM style)
 BUTTON_LEFT_PIN  = 17
