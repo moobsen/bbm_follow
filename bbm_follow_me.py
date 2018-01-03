@@ -206,8 +206,8 @@ try:
         alt_gpsbox_dilution = gpsd.fix.epv
         # check altitude and dilution reported from drone
         alt_drone = vehicle.location.global_frame.alt 
-        alt_drone_dilution = vehicle.gps_0.epv
-        logging.info('GPS box alt: %d +- %d | Drone alt: %d +- %d'
+        alt_drone_dilution = vehicle.gps_0.epv / 10
+        logging.info('GPS box alt: %s +- %s | Drone alt: %s +- %s'
           % (alt_gpsbox, alt_gpsbox_dilution, alt_drone, alt_drone_dilution) )
         # check if the altitude "uncertainty bubbles" touch
         if alt_gpsbox + alt_gpsbox_dilution < alt_drone - alt_drone_dilution: 
