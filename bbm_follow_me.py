@@ -125,9 +125,9 @@ def arm_and_takeoff(aTargetAltitude):
   """
   logging.info("Basic pre-arm checks")
   # don't let the user try to arm until autopilot is ready
-  #while not vehicle.is_armable:
-  #  logging.info(" Waiting for vehicle to initialise...")
-  #  time.sleep(1)
+  while not vehicle.is_armable:
+    logging.info(" Waiting for vehicle to initialise...")
+    time.sleep(1)
   logging.info("Arming motors")
   # Copter should arm in GUIDED mode
   vehicle.mode = dronekit.VehicleMode("GUIDED")
@@ -149,6 +149,30 @@ def arm_and_takeoff(aTargetAltitude):
       break
     time.sleep(1)
 
+# this function sets the drone to throw mode and arms it
+# if the drone is armed and not in throw mode, throw is assummed completed
+# 
+def set_throw_wait():
+  if vehicle.armed:
+    if vehicle.mode.name == 'THROW':
+      logging.info('Wating for throw')
+      return False
+    else:
+      # the drone should be flying, follow can start
+      logging.info('Flight mode: %s' % vehicle.mode.name)
+      return True
+  else:
+    if vehicle.mode.name != 'THROW':
+      vehicle.mode = dronekit.VehicleMode('THROW') 
+    # double check flight mode, commands to drone can get lost
+    #while not vehicle.is_armable:
+    #  logging.warning('Can not arm! Compass/GPS?')
+    #  time.sleep(1)
+    if vehicle.mode.name == 'THROW':
+      vehicle.armed=True
+      make_LED('GREEN')
+    return False
+
 def cleanup():
   # close vehicle object before exiting script
   logging.info("Closing vehicle object & clean up GPIO")
@@ -162,25 +186,33 @@ def cleanup():
     GPIO.cleanup()
     logging.info("Done")
 
-try:
-  # connect to the vehicle
-  logging.info('Connecting to vehicle on: %s' % connection_string)
-  vehicle = dronekit.connect(connection_string, wait_ready=True)
-  cmds = vehicle.commands
-  cmds.download()
-  cmds.wait_ready()
-except Exception as e:
-  logging.error("Exception caught. Most likely connection to vehicle failed.")
-  logging.error(traceback.format_exc())
-  cleanup()
-  sys.exit(1)
+def connect():
+  try:
+    # connect to the vehicle
+    logging.info('Connecting to vehicle on: %s' % connection_string)
+    vehicle = dronekit.connect(connection_string, wait_ready=True)
+    cmds = vehicle.commands
+    cmds.download()
+    cmds.wait_ready()
+    make_LED('ORANGE')
+    return vehicle
+  except Exception as e:
+    logging.error("Exception caught. Most likely connection to vehicle failed.")
+    logging.error(traceback.format_exc())
+    make_LED('RED')
+    sleep(1)
+    connect()
 
 try:
+  make_LED('RED')
+  vehicle = connect()
   # TODO: let gpsd run in it's own thread like (like dan.mandle.me)
   gpsd = gps.gps(mode=gps.WATCH_ENABLE)
-  arm_and_takeoff(START_ALTITUDE)
+  #arm_and_takeoff(START_ALTITUDE)
   last_alt=0
   last_dest = vehicle.home_location
+  while not set_throw_wait():
+    time.sleep(1)
   # main loop
   while True:
     if vehicle.mode.name != "GUIDED":
@@ -206,7 +238,7 @@ try:
         alt_gpsbox_dilution = gpsd.fix.epv
         # check altitude and dilution reported from drone
         alt_drone = vehicle.location.global_frame.alt 
-        alt_drone_dilution = vehicle.gps_0.epv / 10
+        alt_drone_dilution = vehicle.gps_0.epv / 4.1
         logging.info('GPS box alt: %s +- %s | Drone alt: %s +- %s'
           % (alt_gpsbox, alt_gpsbox_dilution, alt_drone, alt_drone_dilution) )
         # check if the altitude "uncertainty bubbles" touch
