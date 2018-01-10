@@ -26,7 +26,7 @@ LED_RED_PIN    = 24
 #other parameters
 START_ALTITUDE = 6# in meters
 FLY_ALTITUDE = 6  # in meters
-GPS_REFRESH = 0.1 # in seconds, NEEDS to be smaller than 1, by gpsd design
+GPS_REFRESH = 0.5 # in seconds
 MIN_DISTANCE = 1  # in metersminimum distance between new and old gps location
 #KILL TIME NEEDS TO BE SMALLER THAN STOP TIME! 
 STOP_TIME = 4 #time in seconds til drone lands
@@ -35,7 +35,8 @@ KILL_TIME = 2 #time in seconds til drone drops from the sky
 
 import dronekit 
 import RPi.GPIO as GPIO
-import gps
+from gps import *
+import threading
 import socket
 import time
 import sys
@@ -98,6 +99,20 @@ def setup_buttons():
 setup_LED()
 setup_buttons()
 make_LED("ORANGE")
+gpsd = None # global gpsd variable
+
+class GpsPoller(threading.Thread):
+  def __init__(self):
+    threading.Thread.__init__(self)
+    global gpsd #bring it in scope
+    gpsd = gps(mode=WATCH_ENABLE) #starting the stream of info
+    self.current_value = None
+    self.running = True #setting the thread running to true
+ 
+  def run(self):
+    global gpsd
+    while gpsp.running:
+      gpsd.next() #this will continue to loop and grab EACH set of gpsd info to clear the buffer
 
 # Callback-Funktion
 def interrupt_button_1(channel):
@@ -176,7 +191,7 @@ def set_throw_wait():
 def cleanup():
   # close vehicle object before exiting script
   logging.info("Closing vehicle object & clean up GPIO")
-  make_LED("OFF")
+  make_LED("RED")
   try:
     vehicle.close()
   except:
@@ -200,14 +215,16 @@ def connect():
     logging.error("Exception caught. Most likely connection to vehicle failed.")
     logging.error(traceback.format_exc())
     make_LED('RED')
-    sleep(1)
+    time.sleep(1)
     connect()
 
 try:
   make_LED('RED')
+  gpsp = GpsPoller()
+  gpsp.start()
   vehicle = connect()
   # TODO: let gpsd run in it's own thread like (like dan.mandle.me)
-  gpsd = gps.gps(mode=gps.WATCH_ENABLE)
+  # gpsd = gps.gps(mode=gps.WATCH_ENABLE)
   #arm_and_takeoff(START_ALTITUDE)
   last_alt=0
   last_dest = vehicle.home_location
@@ -218,9 +235,9 @@ try:
     if vehicle.mode.name != "GUIDED":
       logging.warning("User has changed flight mode - aborting follow-me")
       break
-    gpsd.next()
+    #gpsd.next()
     # once we have a valid location (see gpsd documentation) we can start
-    if (gpsd.valid & gps.LATLON_SET) != 0:
+    if (gpsd.valid) != 0:
       dest = dronekit.LocationGlobal(gpsd.fix.latitude, 
           gpsd.fix.longitude, gpsd.fix.altitude)
       alt_gpsbox = dest.alt
@@ -260,7 +277,7 @@ try:
       # only send new point if distance is large enough
       if distance > MIN_DISTANCE:
         logging.info('Going to: %s' % dest)
-        vehicle.simple_goto(dest)
+        vehicle.simple_goto(dest, None, 15)
         last_dest=dest
       time.sleep(GPS_REFRESH) #this needs to be smaller than 1s (see above)
     else:
@@ -273,15 +290,25 @@ except socket.error:
   logging.error ("Error: gpsd service does not seem to be running, "
        "plug in USB GPS or run run-fake-gps.sh")
   cleanup()
+  logging.info('Killing GPS Thread...')
+  gpsp.running = False
+  gpsp.join() # wait for the thread to finish what it's doing
   sys.exit(1)
 
 except (KeyboardInterrupt, SystemExit):
   logging.info("Caught keyboard interrupt")
   cleanup()
+  logging.info('Killing GPS Thread...')
+  gpsp.running = False
+  gpsp.join() # wait for the thread to finish what it's doing
   sys.exit(0)
-
 
 except Exception as e:
   logging.error("Caught unknown exception, see trace")
   logging.error(traceback.format_exc())
   cleanup()
+  logging.info('Killing GPS Thread...')
+  gpsp.running = False
+  gpsp.join() # wait for the thread to finish what it's doing
+  sys.exit(1)
+
