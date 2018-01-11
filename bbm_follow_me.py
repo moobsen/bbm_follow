@@ -50,6 +50,7 @@ from geopy.distance import vincenty
 #TODO cleanup denglish
 
 GPIO.setmode(GPIO.BCM)
+GPIO.setwarnings(False)
 parser = argparse.ArgumentParser(
   description='Tracks GPS position of your computer (Linux only).')
 parser.add_argument('--connect', 
@@ -190,16 +191,14 @@ def set_throw_wait():
 
 def cleanup():
   # close vehicle object before exiting script
-  logging.info("Closing vehicle object & clean up GPIO")
+  logging.info("Closing connection to vehicle object")
   make_LED("RED")
   try:
     vehicle.close()
   except:
-    GPIO.cleanup()
     logging.warning("Cleanup done, but there was no vehicle connection")
   else:
-    GPIO.cleanup()
-    logging.info("Done")
+    logging.info("Done. Bye! :-)")
 
 def connect():
   try:
@@ -217,6 +216,11 @@ def connect():
     make_LED('RED')
     time.sleep(1)
     connect()
+
+def end_gps_poller(gpsp):
+  logging.info('Killing GPS Thread...')
+  gpsp.running = False
+  gpsp.join() # wait for the thread to finish what it's doing
 
 try:
   make_LED('RED')
@@ -255,6 +259,9 @@ try:
         alt_gpsbox_dilution = gpsd.fix.epv
         # check altitude and dilution reported from drone
         alt_drone = vehicle.location.global_frame.alt 
+        # the below error calculation is not very accurate
+        # epv is the Vertical Dilution * 100, which is a unitless number
+        # 4.1 is a value taken from cgps output, by comparing VDop and Verr
         alt_drone_dilution = vehicle.gps_0.epv / 4.1
         logging.info('GPS box alt: %s +- %s | Drone alt: %s +- %s'
           % (alt_gpsbox, alt_gpsbox_dilution, alt_drone, alt_drone_dilution) )
@@ -285,30 +292,26 @@ try:
       time.sleep(GPS_REFRESH)
   # broke away from main loop
   cleanup()
+  end_gps_poller(gpsp) 
+  sys.exit(0)
       
 except socket.error:
   logging.error ("Error: gpsd service does not seem to be running, "
        "plug in USB GPS or run run-fake-gps.sh")
   cleanup()
-  logging.info('Killing GPS Thread...')
-  gpsp.running = False
-  gpsp.join() # wait for the thread to finish what it's doing
+  end_gps_poller(gpsp) 
   sys.exit(1)
 
 except (KeyboardInterrupt, SystemExit):
   logging.info("Caught keyboard interrupt")
   cleanup()
-  logging.info('Killing GPS Thread...')
-  gpsp.running = False
-  gpsp.join() # wait for the thread to finish what it's doing
+  end_gps_poller(gpsp) 
   sys.exit(0)
 
 except Exception as e:
   logging.error("Caught unknown exception, see trace")
   logging.error(traceback.format_exc())
   cleanup()
-  logging.info('Killing GPS Thread...')
-  gpsp.running = False
-  gpsp.join() # wait for the thread to finish what it's doing
+  end_gps_poller(gpsp) 
   sys.exit(1)
 
