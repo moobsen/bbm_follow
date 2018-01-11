@@ -151,7 +151,7 @@ def arm_and_takeoff(aTargetAltitude):
     logging.info(" Waiting for arming...")
     time.sleep(1)
   # vehicle.airspeed = 15 #m/s
-  vehicle.groundspeed = 15 #m/s
+  vehicle.groundspeed = 30 #m/s
   logging.info("Taking off!")
   vehicle.simple_takeoff(aTargetAltitude)
   # check if height is safe before going anywhere
@@ -277,7 +277,7 @@ try:
       # only send new point if distance is large enough
       if distance > MIN_DISTANCE:
         logging.info('Going to: %s' % dest)
-        vehicle.simple_goto(dest, None, 15)
+        vehicle.simple_goto(dest, None, 30)
         last_dest=dest
       time.sleep(GPS_REFRESH) #this needs to be smaller than 1s (see above)
     else:
@@ -285,6 +285,11 @@ try:
       time.sleep(GPS_REFRESH)
   # broke away from main loop
   cleanup()
+  logging.info('Killing GPS Thread...')
+  gpsp.running = False
+  gpsp.join() # wait for the thread to finish what it's doing
+  sys.exit(1)
+
       
 except socket.error:
   logging.error ("Error: gpsd service does not seem to be running, "
