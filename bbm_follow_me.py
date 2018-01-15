@@ -172,6 +172,7 @@ def set_throw_wait():
   if vehicle.armed:
     if vehicle.mode.name == 'THROW':
       logging.info('Wating for throw')
+      make_LED('GREEN')
       return False
     else:
       # the drone should be flying, follow can start
@@ -186,7 +187,6 @@ def set_throw_wait():
     #  time.sleep(1)
     if vehicle.mode.name == 'THROW':
       vehicle.armed=True
-      make_LED('GREEN')
     return False
 
 def cleanup():
