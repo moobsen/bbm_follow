@@ -29,13 +29,13 @@ FLY_ALTITUDE = 6  # in meters
 GPS_REFRESH = 0.5 # in seconds
 MIN_DISTANCE = 1  # in metersminimum distance between new and old gps location
 #KILL TIME NEEDS TO BE SMALLER THAN STOP TIME! 
-STOP_TIME = 4 #time in seconds til drone lands
-KILL_TIME = 2 #time in seconds til drone drops from the sky
+STOP_TIME = 2 #time in seconds til drone lands (button 1)
+KILL_TIME = 2 #time in seconds til drone drops from the sky (both buttons)
 ################################################################################
 
 import dronekit 
 import RPi.GPIO as GPIO
-from gps import *
+import gps
 import threading
 import socket
 import time
@@ -46,34 +46,10 @@ import logging
 import argparse  
 from geopy.distance import vincenty
 
-#TODO sort and modulize, e.g. proper main function
 #TODO cleanup denglish
 
-GPIO.setmode(GPIO.BCM)
-GPIO.setwarnings(False)
-parser = argparse.ArgumentParser(
-  description='Tracks GPS position of your computer (Linux only).')
-parser.add_argument('--connect', 
-          help="vehicle connection target string.")
-parser.add_argument('--log',
-          help="logging level")
-args = parser.parse_args()
-if args.connect:
-  connection_string = args.connect
-else:
-  print("no connection specified via --connect, exiting")
-  sys.exit()
-if args.log:
-  logging.basicConfig(filename='log-follow.log', level=args.log.upper())
-else:
-  print('No loging level specified, using WARNING')
-  logging.basicConfig(filename='log-follow.log', level='WARNING')
-logging.warning('################## Starting script log ##################')
-logging.info("System Time:" + time.strftime("%c"))
-logging.info("Flying altitude: %s" % FLY_ALTITUDE)
-logging.info("Time between GPS points: %s" % GPS_REFRESH)
-
 def make_LED(color):
+  setup_LED()
   if color == "RED":
     GPIO.output(LED_GREEN_PIN, GPIO.LOW)
     GPIO.output(LED_RED_PIN,   GPIO.HIGH)
@@ -86,33 +62,28 @@ def make_LED(color):
   else: #everything else is off
     GPIO.output(LED_GREEN_PIN, GPIO.LOW)
     GPIO.output(LED_RED_PIN,   GPIO.LOW)
-  return
 
 def setup_LED():
+  GPIO.setmode(GPIO.BCM)
   GPIO.setup(LED_GREEN_PIN, GPIO.OUT)
   GPIO.setup(LED_RED_PIN,   GPIO.OUT)
-  return
 
 def setup_buttons():
+  GPIO.setmode(GPIO.BCM)
   GPIO.setup(BUTTON_LEFT_PIN, GPIO.IN, pull_up_down=GPIO.PUD_UP)
   GPIO.setup(BUTTON_RIGHT_PIN, GPIO.IN, pull_up_down=GPIO.PUD_UP)
-
-setup_LED()
-setup_buttons()
-make_LED("ORANGE")
-gpsd = None # global gpsd variable
 
 class GpsPoller(threading.Thread):
   def __init__(self):
     threading.Thread.__init__(self)
     global gpsd #bring it in scope
-    gpsd = gps(mode=WATCH_ENABLE) #starting the stream of info
+    gpsd = gps.gps(mode=gps.WATCH_ENABLE) #starting the stream of info
     self.current_value = None
     self.running = True #setting the thread running to true
  
   def run(self):
     global gpsd
-    while gpsp.running:
+    while self.running:
       gpsd.next() #this will continue to loop and grab EACH set of gpsd info to clear the buffer
 
 # Callback-Funktion
@@ -123,17 +94,11 @@ def interrupt_button_1(channel):
     vehicle.mode = dronekit.VehicleMode("STABILIZE")
     vehicle.armed = False
     logging.warning("KILL Button detected, disarming")
-    make_LED("RED")
   time.sleep( STOP_TIME - KILL_TIME )
   if GPIO.input(BUTTON_LEFT_PIN) == 0:
     #land mode
     logging.warning("Land Button detected, Setting LAND mode")
     vehicle.mode = dronekit.VehicleMode("LAND")
-    make_LED("ORANGE")
-
-# Interrupt-Event hinzufuegen
-GPIO.add_event_detect(BUTTON_LEFT_PIN, GPIO.FALLING,
-            callback = interrupt_button_1, bouncetime = 300)
 
 def arm_and_takeoff(aTargetAltitude):
   """
@@ -168,7 +133,7 @@ def arm_and_takeoff(aTargetAltitude):
 # this function sets the drone to throw mode and arms it
 # if the drone is armed and not in throw mode, throw is assummed completed
 # 
-def set_throw_wait():
+def set_throw_wait(vehicle):
   if vehicle.armed:
     if vehicle.mode.name == 'THROW':
       logging.info('Wating for throw')
@@ -192,7 +157,6 @@ def set_throw_wait():
 def cleanup():
   # close vehicle object before exiting script
   logging.info("Closing connection to vehicle object")
-  make_LED("RED")
   try:
     vehicle.close()
   except:
@@ -200,7 +164,7 @@ def cleanup():
   else:
     logging.info("Done. Bye! :-)")
 
-def connect():
+def connect(connection_string):
   try:
     # connect to the vehicle
     logging.info('Connecting to vehicle on: %s' % connection_string)
@@ -208,110 +172,145 @@ def connect():
     cmds = vehicle.commands
     cmds.download()
     cmds.wait_ready()
-    make_LED('ORANGE')
     return vehicle
   except Exception as e:
     logging.error("Exception caught. Most likely connection to vehicle failed.")
     logging.error(traceback.format_exc())
-    make_LED('RED')
-    time.sleep(1)
-    connect()
+    return 'None'
 
 def end_gps_poller(gpsp):
+  if gpsp == 'None':
+    return
   logging.info('Killing GPS Thread...')
   gpsp.running = False
   gpsp.join() # wait for the thread to finish what it's doing
 
-try:
-  make_LED('RED')
-  gpsp = GpsPoller()
-  gpsp.start()
-  vehicle = connect()
-  # TODO: let gpsd run in it's own thread like (like dan.mandle.me)
-  # gpsd = gps.gps(mode=gps.WATCH_ENABLE)
-  #arm_and_takeoff(START_ALTITUDE)
-  last_alt=0
-  last_dest = vehicle.home_location
-  while not set_throw_wait():
-    time.sleep(1)
-  # main loop
-  while True:
-    if vehicle.mode.name != "GUIDED":
-      logging.warning("User has changed flight mode - aborting follow-me")
-      break
-    #gpsd.next()
-    # once we have a valid location (see gpsd documentation) we can start
-    if (gpsd.valid) != 0:
-      dest = dronekit.LocationGlobal(gpsd.fix.latitude, 
-          gpsd.fix.longitude, gpsd.fix.altitude)
-      alt_gpsbox = dest.alt
-      delta_z=0
-      if math.isnan(alt_gpsbox):
-        # NO new Z info from box (altitude)
-        if last_alt==0:
-          dest = dronekit.LocationGlobalRelative(dest.lat, dest.lon, 
-                                                 FLY_ALTITUDE)
-        else:
-          dest.alt = last_alt
-      else:
-        # new Z info from box exists
-        # before it's accepted, check altitude error
-        alt_gpsbox_dilution = gpsd.fix.epv
-        # check altitude and dilution reported from drone
-        alt_drone = vehicle.location.global_frame.alt 
-        # the below error calculation is not very accurate
-        # epv is the Vertical Dilution * 100, which is a unitless number
-        # 4.1 is a value taken from cgps output, by comparing VDop and Verr
-        alt_drone_dilution = vehicle.gps_0.epv / 4.1
-        logging.info('GPS box alt: %s +- %s | Drone alt: %s +- %s'
-          % (alt_gpsbox, alt_gpsbox_dilution, alt_drone, alt_drone_dilution) )
-        # check if the altitude "uncertainty bubbles" touch
-        if alt_gpsbox + alt_gpsbox_dilution < alt_drone - alt_drone_dilution: 
-          delta_z = last_alt - (dest.alt+FLY_ALTITUDE)
-          last_alt = alt_gpsbox+FLY_ALTITUDE
-          dest = dronekit.LocationGlobal(dest.lat, dest.lon, last_alt)
-        else:
+def main():
+  gpsp = 'None'
+  GPIO.setwarnings(False)
+  setup_LED()
+  setup_buttons()
+  try:
+    # Interrupt-Event hinzufuegen
+    GPIO.add_event_detect(BUTTON_LEFT_PIN, GPIO.FALLING,
+      callback = interrupt_button_1, bouncetime = 300)
+    parser = argparse.ArgumentParser(
+      description='Tracks GPS position of your computer (Linux only).')
+    parser.add_argument('--connect', 
+              help="vehicle connection target string.")
+    parser.add_argument('--log',
+              help="logging level")
+    args = parser.parse_args()
+    if args.connect:
+      connection_string = args.connect
+    else:
+      print("no connection specified via --connect, exiting")
+      sys.exit()
+    if args.log:
+      logging.basicConfig(filename='log-follow.log', level=args.log.upper())
+    else:
+      print('No loging level specified, using WARNING')
+      logging.basicConfig(filename='log-follow.log', level='WARNING')
+    logging.warning('################## Starting script log ##################')
+    logging.info("System Time:" + time.strftime("%c"))
+    logging.info("Flying altitude: %s" % FLY_ALTITUDE)
+    logging.info("Time between GPS points: %s" % GPS_REFRESH)
+
+    gpsp = GpsPoller()
+    gpsp.start()
+    make_LED('ORANGE')
+    vehicle = 'None'
+    while vehicle == 'None':
+      vehicle = connect(connection_string)
+    #arm_and_takeoff(START_ALTITUDE)
+    last_alt=0
+    last_dest = 'None'
+    while not set_throw_wait(vehicle):
+      time.sleep(1)
+    # main loop
+    while True:
+      if vehicle.mode.name != "GUIDED":
+        logging.warning("Flight mode changed - aborting follow-me")
+        break
+      if (gpsd.valid) != 0:
+        dest = dronekit.LocationGlobal(gpsd.fix.latitude, 
+            gpsd.fix.longitude, gpsd.fix.altitude)
+        alt_gpsbox = dest.alt
+        delta_z=0
+        if math.isnan(alt_gpsbox):
+          # NO new Z info from box (altitude)
           if last_alt==0:
             dest = dronekit.LocationGlobalRelative(dest.lat, dest.lon, 
                                                    FLY_ALTITUDE)
           else:
             dest.alt = last_alt
-      # check the distance between current and last position
-      distance = vincenty( (last_dest.lat, last_dest.lon),
-                           (dest.lat, dest.lon) ).meters
-      distance = math.sqrt (distance*distance + delta_z*delta_z)
-      logging.debug('Distance between points[m]: %s' % distance)
-      # only send new point if distance is large enough
-      if distance > MIN_DISTANCE:
-        logging.info('Going to: %s' % dest)
-        vehicle.simple_goto(dest, None, 30)
-        last_dest=dest
-      time.sleep(GPS_REFRESH) #this needs to be smaller than 1s (see above)
-    else:
-      logging.warn("Currently no good GPS Signal")
-      time.sleep(GPS_REFRESH)
-  # broke away from main loop
-  cleanup()
-  end_gps_poller(gpsp) 
-  sys.exit(0)
-      
-except socket.error:
-  logging.error ("Error: gpsd service does not seem to be running, "
-       "plug in USB GPS or run run-fake-gps.sh")
-  cleanup()
-  end_gps_poller(gpsp) 
-  sys.exit(1)
+        else:
+          # new Z info from box exists
+          # before it's accepted, check altitude error
+          alt_gpsbox_dilution = gpsd.fix.epv
+          # check altitude and dilution reported from drone
+          alt_drone = vehicle.location.global_frame.alt 
+          # the below error calculation is not very accurate
+          # epv is the Vertical Dilution * 100, which is a unitless number
+          # 4.1 is a value taken from cgps output, by comparing VDop and Verr
+          alt_drone_dilution = vehicle.gps_0.epv / 4.1
+          logging.info('GPS box alt: %s +- %s | Drone alt: %s +- %s'
+            % (alt_gpsbox, alt_gpsbox_dilution, alt_drone, alt_drone_dilution) )
+          # check if the altitude "uncertainty bubbles" touch
+          if alt_gpsbox + alt_gpsbox_dilution < alt_drone - alt_drone_dilution: 
+            delta_z = last_alt - (dest.alt+FLY_ALTITUDE)
+            last_alt = alt_gpsbox+FLY_ALTITUDE
+            dest = dronekit.LocationGlobal(dest.lat, dest.lon, last_alt)
+          else:
+            if last_alt==0:
+              dest = dronekit.LocationGlobalRelative(dest.lat, dest.lon, 
+                                                     FLY_ALTITUDE)
+            else:
+              dest.alt = last_alt
+        # check the distance between current and last position
+        if last_dest == 'None':
+          last_dest = dest
+        distance = vincenty( (last_dest.lat, last_dest.lon),
+                             (dest.lat, dest.lon) ).meters
+        distance = math.sqrt (distance*distance + delta_z*delta_z)
+        logging.debug('Distance between points[m]: %s' % distance)
+        # only send new point if distance is large enough
+        if distance > MIN_DISTANCE:
+          logging.info('Going to: %s' % dest)
+          vehicle.simple_goto(dest, None, 30)
+          last_dest=dest
+        time.sleep(GPS_REFRESH) #this needs to be smaller than 1s (see above)
+      else:
+        logging.warn("Currently no good GPS Signal")
+        time.sleep(GPS_REFRESH)
+    # broke away from main loop
+    make_LED('ORANGE')
+    cleanup()
+    end_gps_poller(gpsp) 
+    sys.exit(0)
+        
+  except socket.error:  
+    make_LED("RED")
+    logging.error ("Error: gpsd service does not seem to be running, "
+         "plug in USB GPS or run run-fake-gps.sh")
+    cleanup()
+    end_gps_poller(gpsp) 
+    sys.exit(1)
 
-except (KeyboardInterrupt, SystemExit):
-  logging.info("Caught keyboard interrupt")
-  cleanup()
-  end_gps_poller(gpsp) 
-  sys.exit(0)
+  except (KeyboardInterrupt, SystemExit):
+    make_LED("RED")
+    logging.info("Caught keyboard interrupt")
+    cleanup()
+    end_gps_poller(gpsp) 
+    sys.exit(0)
 
-except Exception as e:
-  logging.error("Caught unknown exception, see trace")
-  logging.error(traceback.format_exc())
-  cleanup()
-  end_gps_poller(gpsp) 
-  sys.exit(1)
+  except Exception as e:
+    make_LED("RED")
+    logging.error("Caught unknown exception, trace follows:")
+    logging.error(traceback.format_exc())
+    cleanup()
+    end_gps_poller(gpsp) 
+    sys.exit(1)
 
+if __name__ == "__main__":
+  main()
