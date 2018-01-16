@@ -18,18 +18,19 @@ fi
 #                    override the defaults in /lib/init/init-d-script.
 ### END INIT INFO
 
-# Author: Foo Bar <foobar@baz.org>
+# Author: Moritz Obermeier
 #
-# Please remove the "Author" lines above and replace them
-# with your own name if you copy and modify this script.
 
-DESC="Make the gpsbox LED red"
+DESC="Start a script to let a drone follow this device"
 case "$1" in
   start)
-    python /home/pi/src/moobsen/bbm_follow/led-red.py
+    python /home/pi/src/moobsen/bbm_follow/bbm_follow_me.py --connect 0.0.0.0:14550 --log DEBUG &
+    ;;
+  stop)
+    kill $(cat /tmp/pid_bbmfollow)
     ;;
   *)
-    echo "Usage: /etc/init.d/led-red {start|stop}"
+    echo "Usage: /etc/init.d/bbm-follow {start|stop}"
     exit 1
     ;;
 esac
