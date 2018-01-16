@@ -44,6 +44,8 @@ import math
 import traceback
 import logging
 import argparse  
+import os
+import signal
 from geopy.distance import vincenty
 
 #TODO cleanup denglish
@@ -154,6 +156,12 @@ def set_throw_wait(vehicle):
       vehicle.armed=True
     return False
 
+def writePidFile():
+  pid = str(os.getpid())
+  f = open('/tmp/pid_bbmfollow', 'w')
+  f.write(pid)
+  f.close()
+
 def cleanup():
   # close vehicle object before exiting script
   logging.info("Closing connection to vehicle object")
@@ -186,7 +194,15 @@ def end_gps_poller(gpsp):
   gpsp.join() # wait for the thread to finish what it's doing
 
 def main():
+  def signal_term_handler(signal, frame):
+    logging.error('Caught SIGTERM (kill signal)')
+    cleanup()
+    end_gps_poller(gpsp)
+    sys.exit(1)
+
+  writePidFile()
   gpsp = 'None'
+  signal.signal(signal.SIGTERM, signal_term_handler)
   GPIO.setwarnings(False)
   setup_LED()
   setup_buttons()
