@@ -149,15 +149,6 @@ def writePidFile():
   f.write(pid)
   f.close()
 
-def cleanup():
-  # close vehicle object before exiting script
-  logging.info("Closing connection to vehicle object")
-  try:
-    vehicle.close()
-  except:
-    logging.warning("Cleanup done, but there was no vehicle connection")
-  else:
-    logging.info("Done. Bye! :-)")
 
 def connect(connection_string):
   try:
@@ -200,6 +191,17 @@ def main():
     cleanup()
     end_gps_poller(gpsp)
     sys.exit(1)
+
+  def cleanup():
+    # close vehicle object before exiting script
+    logging.info("Closing connection to vehicle object & safety landing")
+    try:
+      vehicle.mode = dronekit.VehicleMode("LAND")
+      vehicle.close()
+    except:
+      logging.warning("Cleanup done, but there was no vehicle connection")
+    else:
+      logging.info("Done. Bye! :-)")
 
   writePidFile()
   gpsp = 'None'
