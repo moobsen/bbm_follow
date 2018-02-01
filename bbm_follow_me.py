@@ -89,19 +89,6 @@ class GpsPoller(threading.Thread):
       gpsd.next() #this will continue to loop and grab EACH set of gpsd info to clear the buffer
 
 # Callback-Funktion
-def interrupt_button_1(channel):
-  time.sleep(KILL_TIME)
-  if GPIO.input(BUTTON_RIGHT_PIN) == 0 and GPIO.input(BUTTON_LEFT_PIN) == 0:
-    #killswitch
-    vehicle.mode = dronekit.VehicleMode("STABILIZE")
-    vehicle.armed = False
-    logging.warning("KILL Button detected, disarming")
-  time.sleep( STOP_TIME - KILL_TIME )
-  if GPIO.input(BUTTON_LEFT_PIN) == 0:
-    #land mode
-    logging.warning("Land Button detected, Setting LAND mode")
-    vehicle.mode = dronekit.VehicleMode("LAND")
-
 def arm_and_takeoff(aTargetAltitude):
   """
   Arms vehicle and fly to aTargetAltitude.
@@ -194,6 +181,20 @@ def end_gps_poller(gpsp):
   gpsp.join() # wait for the thread to finish what it's doing
 
 def main():
+  #this is called if button 1 is pressed
+  def interrupt_button_1(channel):
+    time.sleep(KILL_TIME)
+    if GPIO.input(BUTTON_RIGHT_PIN) == 0 and GPIO.input(BUTTON_LEFT_PIN) == 0:
+      #killswitch
+      vehicle.mode = dronekit.VehicleMode("STABILIZE")
+      vehicle.armed = False
+      logging.warning("KILL Button detected, disarming")
+    time.sleep( STOP_TIME - KILL_TIME )
+    if GPIO.input(BUTTON_LEFT_PIN) == 0:
+      #land mode
+      logging.warning("Land Button detected, Setting LAND mode")
+      vehicle.mode = dronekit.VehicleMode("LAND")
+
   def signal_term_handler(signal, frame):
     logging.error('Caught SIGTERM (kill signal)')
     cleanup()
