@@ -28,6 +28,7 @@ START_ALTITUDE = 6# in meters
 FLY_ALTITUDE = 6  # in meters
 GPS_REFRESH = 0.5 # in seconds
 MIN_DISTANCE = 1  # in metersminimum distance between new and old gps location
+DESCENT_ANGLE = 30 # in degrees
 #KILL TIME NEEDS TO BE SMALLER THAN STOP TIME! 
 STOP_TIME = 2 #time in seconds til drone lands (button 1)
 KILL_TIME = 2 #time in seconds til drone drops from the sky (both buttons)
@@ -231,6 +232,7 @@ def main():
       print('No loging level specified, using WARNING')
       logging.basicConfig(filename='log-follow.log', level='WARNING')
     logging.warning('################## Starting script log ##################')
+    logging.info("Version: descent_angle v0.1")
     logging.info("System Time:" + time.strftime("%c"))
     logging.info("Flying altitude: %s" % FLY_ALTITUDE)
     logging.info("Time between GPS points: %s" % GPS_REFRESH)
@@ -243,7 +245,7 @@ def main():
       vehicle = connect(connection_string)
     #arm_and_takeoff(START_ALTITUDE)
     last_alt=0
-    last_dest = 'None'
+    launch_dest = 'None'
     while not set_throw_wait(vehicle):
       time.sleep(1)
     # main loop
@@ -252,52 +254,18 @@ def main():
         logging.warning("Flight mode changed - aborting follow-me")
         break
       if (gpsd.valid) != 0:
-        dest = dronekit.LocationGlobal(gpsd.fix.latitude, 
-            gpsd.fix.longitude, gpsd.fix.altitude)
-        alt_gpsbox = dest.alt
-        delta_z=0
-        if math.isnan(alt_gpsbox):
-          # NO new Z info from box (altitude)
-          if last_alt==0:
-            dest = dronekit.LocationGlobalRelative(dest.lat, dest.lon, 
-                                                   FLY_ALTITUDE)
-          else:
-            dest.alt = last_alt
-        else:
-          # new Z info from box exists
-          # before it's accepted, check altitude error
-          alt_gpsbox_dilution = gpsd.fix.epv
-          # check altitude and dilution reported from drone
-          alt_drone = vehicle.location.global_frame.alt 
-          # the below error calculation is not very accurate
-          # epv is the Vertical Dilution * 100, which is a unitless number
-          # 4.1 is a value taken from cgps output, by comparing VDop and Verr
-          alt_drone_dilution = vehicle.gps_0.epv / 4.1
-          logging.info('GPS box alt: %s +- %s | Drone alt: %s +- %s'
-            % (alt_gpsbox, alt_gpsbox_dilution, alt_drone, alt_drone_dilution) )
-          # check if the altitude "uncertainty bubbles" touch
-          if alt_gpsbox + alt_gpsbox_dilution < alt_drone - alt_drone_dilution: 
-            delta_z = last_alt - (dest.alt+FLY_ALTITUDE)
-            last_alt = alt_gpsbox+FLY_ALTITUDE
-            dest = dronekit.LocationGlobal(dest.lat, dest.lon, last_alt)
-          else:
-            if last_alt==0:
-              dest = dronekit.LocationGlobalRelative(dest.lat, dest.lon, 
-                                                     FLY_ALTITUDE)
-            else:
-              dest.alt = last_alt
-        # check the distance between current and last position
-        if last_dest == 'None':
-          last_dest = dest
-        distance = vincenty( (last_dest.lat, last_dest.lon),
+        dest = dronekit.LocationRelative(gpsd.fix.latitude, 
+            gpsd.fix.longitude, 0)
+        if launch_dest == "None":
+          launch_dest = dest
+        # altitude is ONLY determined by distance to launch point 
+        distance = vincenty( (launch_dest.lat, launch_dest.lon),
                              (dest.lat, dest.lon) ).meters
-        distance = math.sqrt (distance*distance + delta_z*delta_z)
+        altitude = - (math.tan(math.radians(DESCENT_ANGLE)) * distance)
+        dest = dronekit.LocationRelative(dest.lat, dest.lon, altitude)
         logging.debug('Distance between points[m]: %s' % distance)
-        # only send new point if distance is large enough
-        if distance > MIN_DISTANCE:
-          logging.info('Going to: %s' % dest)
-          vehicle.simple_goto(dest, None, 30)
-          last_dest=dest
+        logging.info('Going to: %s' % dest)
+        vehicle.simple_goto(dest, None, 30)
         time.sleep(GPS_REFRESH) #this needs to be smaller than 1s (see above)
       else:
         logging.warn("Currently no good GPS Signal")
