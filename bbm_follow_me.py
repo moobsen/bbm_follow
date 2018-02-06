@@ -254,15 +254,15 @@ def main():
         logging.warning("Flight mode changed - aborting follow-me")
         break
       if (gpsd.valid) != 0:
-        dest = dronekit.LocationRelative(gpsd.fix.latitude, 
+        dest = dronekit.LocationGlobalRelative(gpsd.fix.latitude, 
             gpsd.fix.longitude, 0)
         if launch_dest == "None":
-          launch_dest = dest
+          launch_dest = vehicle.location.global_frame
         # altitude is ONLY determined by distance to launch point 
         distance = vincenty( (launch_dest.lat, launch_dest.lon),
                              (dest.lat, dest.lon) ).meters
         altitude = - (math.tan(math.radians(DESCENT_ANGLE)) * distance)
-        dest = dronekit.LocationRelative(dest.lat, dest.lon, altitude)
+        dest = dronekit.LocationGlobalRelative(dest.lat, dest.lon, altitude)
         logging.debug('Distance between points[m]: %s' % distance)
         logging.info('Going to: %s' % dest)
         vehicle.simple_goto(dest, None, 30)
