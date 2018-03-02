@@ -25,10 +25,10 @@ LED_GREEN_PIN  = 23
 LED_RED_PIN    = 24
 #other parameters
 START_ALTITUDE = 6# in meters
-FLY_ALTITUDE = 6  # in meters
+FLY_ALTITUDE = 10  # in meters
 GPS_REFRESH = 0.5 # in seconds
 MIN_DISTANCE = 1  # in metersminimum distance between new and old gps location
-DESCENT_ANGLE = 30 # in degrees
+DESCENT_ANGLE = 20 # in degrees
 #KILL TIME NEEDS TO BE SMALLER THAN STOP TIME! 
 STOP_TIME = 2 #time in seconds til drone lands (button 1)
 KILL_TIME = 2 #time in seconds til drone drops from the sky (both buttons)
