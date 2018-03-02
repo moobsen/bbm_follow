@@ -25,7 +25,7 @@ LED_GREEN_PIN  = 23
 LED_RED_PIN    = 24
 #other parameters
 START_ALTITUDE = 6# in meters
-FLY_ALTITUDE = 6  # in meters
+FLY_ALTITUDE = 10  # in meters
 GPS_REFRESH = 0.5 # in seconds
 MIN_DISTANCE = 1  # in metersminimum distance between new and old gps location
 DESCENT_ANGLE = 20 # in degrees
