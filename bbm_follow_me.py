@@ -28,7 +28,7 @@ START_ALTITUDE = 6# in meters
 FLY_ALTITUDE = 6  # in meters
 GPS_REFRESH = 0.5 # in seconds
 MIN_DISTANCE = 1  # in metersminimum distance between new and old gps location
-DESCENT_ANGLE = 30 # in degrees
+DESCENT_ANGLE = 20 # in degrees
 #KILL TIME NEEDS TO BE SMALLER THAN STOP TIME! 
 STOP_TIME = 2 #time in seconds til drone lands (button 1)
 KILL_TIME = 2 #time in seconds til drone drops from the sky (both buttons)
@@ -263,7 +263,7 @@ def main():
                              (dest.lat, dest.lon) ).meters
         altitude = (math.tan(math.radians(DESCENT_ANGLE)) * distance)
         dest = dronekit.LocationGlobal(dest.lat, dest.lon, 
-          launch_dest.alt-altitude)
+          launch_dest.alt-altitude+10)
         logging.debug('Distance between points[m]: %s' % distance)
         logging.info('Going to: %s' % dest)
         vehicle.simple_goto(dest, None, 30)
